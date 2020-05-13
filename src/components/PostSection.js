@@ -29,14 +29,13 @@ class PostSection extends React.Component {
 
     return (
       <div className="PostSection">
-        {title && <p className="PostSection--Title">{title}</p>}
-        {!!visiblePosts.length && (
+        <h1>post section here</h1>
+          <p className="PostSection--Title">{title}</p>
           <div className="PostSection--Grid">
             {visiblePosts.map((post, index) => (
               <PostCard key={post.title + index} {...post} />
             ))}
           </div>
-        )}
         {showLoadMore && visiblePosts.length < posts.length && (
           <div className="taCenter">
             <div className="default-btn padding-btn">

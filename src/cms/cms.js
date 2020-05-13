@@ -3,15 +3,13 @@ import CMS from 'netlify-cms-app'
 import './cms-utils'
 
 import { HomePageTemplate } from '../templates/HomePage'
-import { ComponentsPageTemplate } from '../templates/SobrePage'
-import { ContactPageTemplate } from '../templates/ContatoPage'
-import { DefaultPageTemplate } from '../templates/DefaultPage'
-import { BlogIndexTemplate } from '../templates/BlogIndex'
-import { ProjetosIndexTemplate } from '../templates/ProjetosIndex'
-import { PessoasPageTemplate } from '../templates/PessoasPage'
-import { SinglePostTemplate } from '../templates/SinglePost'
-import { CasePostTemplate } from '../templates/CasePost'
-import { VagaPostTemplate } from '../templates/VagaPost'
+import { WhatCameraTemplate } from '../templates/WhatCamera'
+import { WhatFunTemplate } from '../templates/WhatFun'
+import { WhatTemplate } from '../templates/What'
+import { PostHomeTemplate } from '../templates/PostHome'
+import { PostCamTemplate } from '../templates/PostCam'
+import { PostFunTemplate } from '../templates/PostFun'
+import { PostWhatTemplate } from '../templates/PostWhat'
 import uploadcare from 'netlify-cms-media-library-uploadcare'
 
 CMS.registerMediaLibrary(uploadcare)
@@ -30,30 +28,24 @@ if (
 CMS.registerPreviewTemplate('home-page', ({ entry }) => (
   <HomePageTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('sobre-page', ({ entry }) => (
-  <ComponentsPageTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('whatcamera', ({ entry }) => (
+  <WhatCameraTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('projetos-page', ({ entry }) => (
-  <ProjetosIndexTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('whatfun', ({ entry }) => (
+  <WhatFunTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('pessoas-page', ({ entry }) => (
-  <PessoasPageTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('what', ({ entry }) => (
+  <WhatTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('contato-page', ({ entry }) => (
-  <ContactPageTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('postHome', ({ entry }) => (
+  <PostHomeTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('editablePages', ({ entry }) => (
-  <DefaultPageTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('postCam', ({ entry }) => (
+  <PostCamTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('blog-page', ({ entry }) => (
-  <BlogIndexTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('postFun', ({ entry }) => (
+  <PostFunTemplate {...entry.toJS().data} />
 ))
-CMS.registerPreviewTemplate('posts', ({ entry }) => (
-  <SinglePostTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('cases', ({ entry }) => (
-  <CasePostTemplate {...entry.toJS().data} />
-))
-CMS.registerPreviewTemplate('vagas', ({ entry }) => (
-  <VagaPostTemplate {...entry.toJS().data} />
+CMS.registerPreviewTemplate('postWhat', ({ entry }) => (
+  <PostWhatTemplate {...entry.toJS().data} />
 ))
