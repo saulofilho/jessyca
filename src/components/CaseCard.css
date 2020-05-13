@@ -1,0 +1,36 @@
+.CaseCard {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+/* .CaseCard:hover,
+.CaseCard:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
+} */
+.CaseCard--Image {
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.CaseCard--Title {
+  color: #fff;
+  font-family: var(--font-primary);
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+.case-card-flex {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+}
+.case-card-down .default-text-sub {
+  text-transform: uppercase;
+  font-size: 4rem;
+  font-weight: 600;
+}

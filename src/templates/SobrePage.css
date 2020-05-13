@@ -1,0 +1,25 @@
+.sobre {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.sobre-hero {
+  height: 100vh;
+  width: 100%;
+  background: lightblue;
+}
+.sobre-section {
+  height: 100vh;
+  width: 100%;
+}
+.sobre-slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.sobre-slide-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,87 @@
+.Contact {
+  width: 100%;
+  height: 100%;
+}
+.contato-hero {
+  height: 100vh;
+  width: 100%;
+  background-image: url(/images/quem_somos_01.png);
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contato-infos {
+  height: 100%;
+  background: #fff;
+  padding: 50px 0;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: left;
+}
+.contato-infos .default-text-header {
+  padding-top: 30px;
+  text-transform: inherit;
+}
+.news-email {
+  width: 100%;
+}
+.news-btn {
+  padding-top: 20px;
+}
+.contato-infos-container {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: left;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  word-wrap: break-word;
+  padding: 50px 0;
+}
+.contato-adress-container {
+  display: flex;
+  flex-flow: row;
+  align-items: left;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  word-wrap: break-word;
+}
+.contato-infos-container .default-text-title {
+  margin-bottom: 0;
+}
+.contato-infos-container .top-zero,
+.contato-adress-container .top-zero {
+  padding-top: 0;
+  text-transform: inherit;
+}
+.contato-adress-container .default-text-header strong {
+  font-family: inherit;
+  font-weight: bolder;
+}
+.contato-social-container {
+  height: 100%;
+  width: 100%;
+}
+.social-btns {
+  display: flex;
+}
+.news-email input[type='text'] {
+  right: 0;
+  border: 0;
+  padding: 2rem 2rem;
+  border: 1px solid #494944;
+  font-size: 1.4rem;
+  color: #494944;
+  width: 100%;
+}
+.social-btn-style button {
+  background: pink;
+  outline: 0;
+  padding: 5px;
+}
+.adress {
+  padding-left: 60px;
+}

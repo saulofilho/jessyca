@@ -1,0 +1,25 @@
+.pessoas {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.pessoas-hero {
+  height: 100vh;
+  width: 100%;
+  background: lightblue;
+}
+.pessoas-section {
+  height: 100vh;
+  width: 100%;
+}
+.pessoas-slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.pessoas-slide-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

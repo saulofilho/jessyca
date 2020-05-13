@@ -1,0 +1,89 @@
+.CasePostPage {
+  height: 100%;
+  width: 100%;
+  background: #fff;
+}
+.home-case, 
+.single-case {
+  height: 100%;
+  width: 100%;
+}
+.case-hero {
+  color: #000;
+  height: 100vh;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: left;
+}
+.containerOne,
+.containerTwo,
+.containerThree {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 100px;
+}
+.case-imgs {
+  height: auto;
+  width: 100%;
+}
+.case-imgs img {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+.CasePost--BackButton {
+  color: white;
+  position: relative;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+.CasePost--BackButton svg {
+  transition: transform 0.2s ease-out;
+  transform: translateX(0);
+  height: 1.2em;
+}
+.CasePost--BackButton:hover svg,
+.CasePost--BackButton:focus svg {
+  transform: translateX(-0.25em);
+}
+.CasePost--Meta {
+  font-size: 1rem;
+  margin: 0 0 2rem 0;
+  text-align: center;
+}
+.CasePost--Meta > * + * {
+  margin-left: 0.75em;
+}
+.CasePost--InnerContent {
+  width: 100%;
+  height: 100%;
+}
+.CasePost--Pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #000;
+  height: 100vh;
+}
+.CasePost--Pagination--Link {
+  text-transform: uppercase;
+  font-family: var(--font-primary);
+  font-size: 3rem;
+  text-decoration: none;
+  color: #fff;
+}
+.next {
+  margin-left: auto;
+  display: flex;
+}
+.resultados strong {
+  color: #000;
+  font-family: var(--font-primary);
+}
+.resultados {
+  height: 100%;
+}

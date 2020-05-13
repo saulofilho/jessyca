@@ -1,0 +1,86 @@
+.BlogPostPage {
+  height: 100%;
+  width: 100%;
+  background: #fff;
+  padding-top: 25%;
+}
+.home-post, 
+.single-post {
+  height: 100%;
+  width: 100%;
+}
+.post-hero {
+  color: #000;
+  height: 100%;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: left;
+}
+.containerOne {
+  height: 100%;
+  width: 100%;
+  padding-bottom: 100px;
+}
+.post-img img {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+}
+.post-text-header {
+  font-family: var(--font-second);
+  font-size: 3rem;
+  font-weight: bolder;
+  word-wrap: break-word;
+  line-height: 1.3;
+  padding-top: 10px;
+}
+.post-text-title {
+  font-family: var(--font-second);
+  font-size: 2rem;
+  word-wrap: break-word;
+  line-height: 1.4;
+  padding: 30px 0;
+}
+.anchor-back {
+  text-transform: uppercase;
+  font-family: var(--font-second);
+  font-size: 1.3rem;
+}
+.post-texts {
+  padding-top: 50px;
+}
+.SinglePost--BackButton {
+  color: #000;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  text-decoration: none;
+  letter-spacing: 0.1em;
+}
+.SinglePost--BackButton svg {
+  transition: transform 0.2s ease-out;
+  transform: translateX(0);
+  height: 1.2em;
+}
+.SinglePost--BackButton:hover svg,
+.SinglePost--BackButton:focus svg {
+  transform: translateX(-0.25em);
+}
+.SinglePost--Meta {
+  padding-top: 50px;
+}
+.SinglePost--Pagination {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #000;
+  height: 400px;
+}
+.SinglePost--Pagination--Link {
+  text-transform: uppercase;
+  font-family: var(--font-second);
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #000;
+}

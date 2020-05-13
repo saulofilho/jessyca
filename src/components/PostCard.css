@@ -1,0 +1,30 @@
+.single-post {
+  width: 100%;
+}
+.PostCard {
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+  overflow: hidden;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 20px;
+}
+.PostCard:hover,
+.PostCard:focus {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 0.15);
+}
+.PostCard--Image {
+  width: 100%;
+  height: 400px;
+}
+.PostCard--Title {
+  font-family: var(--font-second);
+  font-weight: bold;
+  color: #fff;
+  font-size: 18px;
+}
+.PostCard--Date {
+  font-family: var(--font-second);
+  color: #fff;
+  font-size: 10px;
+}

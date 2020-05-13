@@ -1,0 +1,34 @@
+.PostCategoriesNav {
+  width: 100%;
+  height: auto;
+}
+.PostCategoriesNav > * + * {
+  margin-left: 1rem;
+}
+.PostCategoriesNav input[type='text'] {
+  right: 0;
+  border: 0;
+  padding: 2rem 2rem;
+  border: 1px solid #494944;
+  font-size: 1.4rem;
+  color: #494944;
+  width: 100%;
+}
+.PostCategoriesNav input[type='text']:focus {
+  outline: none;
+}
+.PostCategoriesNav input[type='text']::placeholder {
+  color: #494944;
+  font-style: italic;
+}
+@media (max-width: 600px) {
+  .PostCategoriesNav input[type='text'] {
+    width: 100%;
+  }
+}
+.search-blog {
+  width: 100%;
+}
+.search-btn {
+  padding-top: 20px;
+}
