@@ -1,6 +1,7 @@
 import React, { useEffect, useState, useRef } from "react"
 import { Link } from "gatsby"
 import { Menu, X } from 'react-feather'
+import 'prismjs/themes/prism-okaidia.css'
 import ThemeChanger from "./ThemeChanger"
 import { debounce } from "lodash"
 
@@ -65,9 +66,9 @@ export default (props) => {
           data-aos-duration="1000"
           data-aos-easing="ease-in-out"
         >
-          <Link to="/fun">What I do with a camera</Link>
-          <Link to="/about">What I do for fun</Link>
-          <Link to="/about">What</Link>
+          <Link to="/whatcamera">What I do with a camera</Link>
+          <Link to="/whatfun">What I do for fun</Link>
+          <Link to="/what">What</Link>
         </nav>
         <ThemeChanger />
         <button

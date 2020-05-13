@@ -1,63 +1,52 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
-import qs from 'qs'
-
-import PostSection from '../components/PostSection'
-// import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
 
-// Export Template for use in CMS preview
 export const WhatCameraTemplate = ({
-  title,
-  posts = [],
+  cases = []
 }) => (
     <Location>
-      {({ location }) => {
-        let filteredPosts = posts
+      {() => {
+        let filteredPosts = cases
 
         filteredPosts = filteredPosts.filter(post =>
           post.frontmatter.title.toLowerCase()
         )
 
         return (
-          <main className="Blog" id="blog-hero">
-            <h1>{title}</h1>
-            <PostSection posts={filteredPosts} />
-            {console.log("p", filteredPosts.title)}
-            {/* <div className="case-hero container">
-              <p className="default-text-header">news + views</p>
-              <p className="default-text-title" itemProp="title">
-                blog
-                </p>
-              <section className="search-blog">
-                <PostCategoriesNav enableSearch categories={postCategories} />
-                <div className="default-btn search-btn">
-                  <button>search</button>
-                </div>
+          <div className="ideas container">
+            {filteredPosts.map(post => (
+              <section className="card">
+                <h1
+                  className="post-title"
+                  data-aos="fade-up"
+                  data-aos-offset="200"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-easing="ease-in-out"
+                >
+                  {post.frontmatter.title}
+                </h1>
+                <div
+                  className="blog-post-content"
+                  dangerouslySetInnerHTML={{ __html: post.html }}
+                  data-aos="fade-up"
+                  data-aos-offset="200"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-easing="ease-in-out"
+                />
               </section>
-              <div className="anchor-down">
-                <a href="#posts-section">
-                  ↓
-                </a>
-              </div>
-            </div>
-
-            {!!posts.length && (
-              <section className="posts-section" id="posts-section">
-                <div className="container">
-                  <PostSection posts={filteredPosts} />
-                </div>
-              </section>
-            )} */}
-          </main>
+            ))}
+          </div>
         )
       }}
     </Location>
   )
 
 // Export Default WhatCamera for front-end
-const WhatCamera = ({ data: { page }, location }) => (
+const WhatCamera = ({ data: { page, cases }, location }) => (
   <Layout
     location={location}
     title={page.frontmatter.title || false}
@@ -66,6 +55,11 @@ const WhatCamera = ({ data: { page }, location }) => (
       {...page}
       {...page.fields}
       {...page.frontmatter}
+      cases={cases.edges.map(post => ({
+        ...post.node,
+        ...post.node.frontmatter,
+        ...post.node.fields
+      }))}
     />
   </Layout>
 )
@@ -85,6 +79,23 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
+      }
+    }
+    cases: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "postcam" } } }
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          excerpt
+          fields {
+            slug
+          }
+          html
+          frontmatter {
+            title
+          }
+        }
       }
     }
   }

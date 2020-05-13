@@ -4,6 +4,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import HeaderMenu from "./HeaderMenu"
 import Footer from './Footer'
+import 'prismjs/themes/prism-okaidia.css'
 
 export default ({ children, meta, title, location }) => {
   return (

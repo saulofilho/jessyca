@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ffwd',
-        short_name: 'ffwd',
+        name: 'jessyca',
+        short_name: 'jessyca',
         start_url: '/',
         background_color: '#fff',
         theme_color: '#fff',
@@ -89,6 +89,16 @@ module.exports = {
               maxWidth: 800,
               linkImagesToOriginal: false
             }
+          },
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: "language-",
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: false,
+            },
           },
           `gatsby-remark-responsive-iframe`
         ]
@@ -134,6 +144,7 @@ module.exports = {
         enableIdentityWidget: true
       }
     },
+    'gatsby-plugin-dark-mode',
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ]
 }

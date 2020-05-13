@@ -5,41 +5,11 @@ import qs from 'qs'
 // import WhatCarousel from '../components/WhatCarousel'
 import Layout from '../components/Layout'
 
-/**
- * Filter vaga by date. Feature dates will be fitered
- * When used, make sure you run a cronejob each day to show schaduled content. See docs
- *
- * @param {vaga} object
- */
-export const byDate = vaga => {
-  const now = Date.now()
-  return vaga.filter(post => Date.parse(post.date) <= now)
-}
-
-/**
- * filter vaga by category.
- *
- * @param {vaga} object
- * @param {title} string
- * @param {contentType} string
- */
-export const byCategory = (vaga, title, contentType) => {
-  const isCategory = contentType === 'postCategories'
-  const byCategory = post =>
-    post.categories &&
-    post.categories.filter(cat => cat.category === title).length
-  return isCategory ? vaga.filter(byCategory) : vaga
-}
-
-// Export Template for use in CMS preview
 export const WhatTemplate = ({
-  title,
-  vaga = [],
-  enableSearch = true,
-  contentType
+  vaga = []
 }) => (
     <Location>
-      {({ location }) => {
+      {() => {
         let filteredPosts = vaga
 
         filteredPosts = filteredPosts.filter(post =>
@@ -47,14 +17,31 @@ export const WhatTemplate = ({
         )
 
         return (
-          <main className="pessoas">
-            {/* <section className="pessoas-section">
-                <WhatCarousel
-                  posts={filteredPosts}
+          <div className="ideas container">
+            {filteredPosts.map(post => (
+              <section className="card">
+                <h1
+                  className="post-title"
+                  data-aos="fade-up"
+                  data-aos-offset="200"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-easing="ease-in-out"
+                >
+                  {post.frontmatter.title}
+                </h1>
+                <div
+                  className="blog-post-content"
+                  dangerouslySetInnerHTML={{ __html: post.html }}
+                  data-aos="fade-up"
+                  data-aos-offset="200"
+                  data-aos-delay="50"
+                  data-aos-duration="1000"
+                  data-aos-easing="ease-in-out"
                 />
-              </section> */}
-
-          </main>
+              </section>
+            ))}
+          </div>
         )
       }}
     </Location>
@@ -95,9 +82,8 @@ export const pageQuery = graphql`
         title
       }
     }
-
     vaga: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "postWhat" } } }
+      filter: { fields: { contentType: { eq: "postwhat" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -106,6 +92,7 @@ export const pageQuery = graphql`
           fields {
             slug
           }
+          html
           frontmatter {
             title
           }

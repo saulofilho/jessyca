@@ -1,7 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
-import qs from 'qs'
+import Layout from '../components/Layout'
+import Hero from "../components/Hero"
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -9,73 +10,53 @@ if (typeof window !== `undefined`) {
   AOS.init()
 }
 
-// import HomeCarousel from '../components/HomeCarousel'
-import Layout from '../components/Layout'
-
-/**
- * Filter postHome by date. Feature dates will be fitered
- * When used, make sure you run a cronejob each day to show schaduled content. See docs
- *
- * @param {postHome} object
- */
-export const byDate = postHome => {
-  const now = Date.now()
-  return postHome.filter(post => Date.parse(post.date) <= now)
-}
-
-/**
- * filter postHome by category.
- *
- * @param {postHome} object
- * @param {title} string
- * @param {contentType} string
- */
-export const byCategory = (postHome, title, contentType) => {
-  const isCategory = contentType === 'postCategories'
-  const byCategory = post =>
-    post.categories &&
-    post.categories.filter(cat => cat.category === title).length
-  return isCategory ? postHome.filter(byCategory) : postHome
-}
-
-// Export Template for use in CMS preview
 export const HomePageTemplate = ({
-  title,
-  postHome = [],
-  enableSearch = true,
-  contentType
+  cases = []
 }) => (
-  <Location>
-    {({ location }) => {
-      let filteredPosts =
-        postHome && !!postHome.length
-          ? byCategory(byDate(postHome), title, contentType)
-          : []
+    <Location>
+      {() => {
+        let filteredPosts = cases
 
-      let queryObj = location.search.replace('?', '')
-      queryObj = qs.parse(queryObj)
-
-      if (enableSearch && queryObj.s) {
-        const searchTerm = queryObj.s.toLowerCase()
         filteredPosts = filteredPosts.filter(post =>
-          post.frontmatter.title.toLowerCase().includes(searchTerm)
+          post.frontmatter.title.toLowerCase()
         )
-      }
 
-      return (
-        <main className="homePage">
-            <section className="homePage-section">
-      <h1>{title}</h1>
-      {console.log('xxxxx', filteredPosts)}
-            </section>
-        </main>
-      )
-    }}
-  </Location>
-)
+        return (
+          <>
+          <Hero />
+            <div className="ideas container">
+              {filteredPosts.map(post => (
+                <section className="card">
+                  <h1
+                    className="post-title"
+                    data-aos="fade-up"
+                    data-aos-offset="200"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out"
+                  >
+                    {post.frontmatter.title}
+                  </h1>
+                  <div
+                    className="blog-post-content"
+                    dangerouslySetInnerHTML={{ __html: post.html }}
+                    data-aos="fade-up"
+                    data-aos-offset="200"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out"
+                  />
+                </section>
+              ))}
+            </div>
+          </>
+        )
+      }}
+    </Location>
+  )
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page, postHome }, location }) => (
+const HomePage = ({ data: { page, cases }, location }) => (
   <Layout
     location={location}
     title={page.frontmatter.title || false}
@@ -84,7 +65,7 @@ const HomePage = ({ data: { page, postHome }, location }) => (
       {...page}
       {...page.fields}
       {...page.frontmatter}
-      postHome={postHome.edges.map(post => ({
+      cases={cases.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
         ...post.node.fields
@@ -105,13 +86,13 @@ export const pageQuery = graphql`
       fields {
         contentType
       }
+      html
       frontmatter {
         title
       }
     }
-
-    postHome: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "postHome" } } }
+    cases: allMarkdownRemark(
+      filter: { fields: { contentType: { eq: "posthome" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
@@ -120,6 +101,7 @@ export const pageQuery = graphql`
           fields {
             slug
           }
+          html
           frontmatter {
             title
           }
