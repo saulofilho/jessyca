@@ -3,9 +3,13 @@ import React from 'react'
 
 export default () => (
 
-        <section className="section thick">
+  <section className="container">
 
-            <h1>404 - Page Not Found</h1>
+    <code>
+    <pre>
+  <div>teste</div> ola
+</pre> 
+    </code>
 
-        </section>
+  </section>
 )
