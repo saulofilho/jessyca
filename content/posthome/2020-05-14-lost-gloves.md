@@ -29,15 +29,15 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 
 ![](https://ucarecdn.com/024b7388-07cc-489a-864c-c30755fc673c/)
 
+<div class="img-row">
+
 ![](https://ucarecdn.com/44b5ccd2-fa07-43b6-8968-ccf86ced5046/)
 
 ![](https://ucarecdn.com/0a7cd9a4-21f6-45fd-96f9-95a19efce780/)
 
 ![](https://ucarecdn.com/f720a7f9-3fea-42bc-a5fa-e82e638dbc95/)
 
-
-
-
+</div>
 
 
 
