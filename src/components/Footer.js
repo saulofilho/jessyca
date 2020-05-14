@@ -10,9 +10,10 @@ export default () => (
       data-aos-duration="1000"
       data-aos-easing="ease-in-out"
     >
-      <p>&copy; 2020 Jessyca &bull; Crafted with
-          <span role="img" aria-label="love">❤️</span> by
-          <a href="https://saulofilho.com">Jessyca</a>
+      <p>
+          Well, was so nice to meet you. Come back whenever you want. ✿
+          <br/>
+          [♡Be nice, drink water, smoke weed and hug your dog♡]
       </p>
     </footer>
   </div>

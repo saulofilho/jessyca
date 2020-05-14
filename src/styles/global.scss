@@ -19,7 +19,7 @@ body.light {
   --primary-text-color: #fff;
   --featured-bg: #493b8a;
   --featured-text: #fff;
-  --secondary-color: #10072b;
+  --secondary-color: #fdc5f5;
   --background: #fff;
   --text-color: #b388eb;
   --site-header: var(--background);
@@ -40,7 +40,7 @@ body.dark {
   --primary-text-color: #fff;
   --featured-bg: #66578d;
   --featured-text: #fff;
-  --secondary-color: #66578d;
+  --secondary-color: #b388eb;
   --background: #000;
   --text-color: #fdc5f5;
   --text-secondary-color: rgba(255,255,255,0.66);
@@ -86,10 +86,10 @@ h1 {
 }
 a {
   font-family: 'Lato', sans-serif;
-  color: var(--primary-color);
+  color: var(--text-color);
   text-decoration: none;
   &:hover {
-    text-decoration: underline;
+    color: var(--secondary-color);
   }
 }
 i {
@@ -109,19 +109,7 @@ i {
   align-items: center;
   font-weight: 300;
   a {
-    color: #888;
-    text-decoration: none;
     margin: 0 8px 0;
-    &[aria-current] {
-      color: var(--primary-color);
-      font-weight: 700;
-    }
-    &:hover {
-      color: #ff8800;
-    }
-    &:last-child {
-      margin-right: 0;
-    }
   }
 }
 .navigation-active {
@@ -140,6 +128,7 @@ i {
   height: auto;
   top: 0;
   transition: top 0.3s;
+  z-index: 1;
 }
 .menu-button {
   display: none !important;
@@ -225,6 +214,9 @@ i {
   width: 100%;
   height: 800px;
 }
+.gatsby-resp-iframe-wrapper {
+  margin-bottom: 1rem;
+}
 .post-container {
   display: flex;
   flex-flow: row;
@@ -243,11 +235,29 @@ i {
   align-items: center;
 }
 .img-idea {
-  width: 50%;
+  width: 100%;
   height: auto;
   display: grid;
   position: relative;
   grid-template-columns: repeat(12, 1fr);
+}
+.img-row {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+.img-row p {
+  width: 100%;
+}
+.img-row p:nth-child(2) {
+  padding-left: 10px;
+}
+.img-row p:nth-child(3) {
+  padding-left: 10px;
+}
+.img-row p img {
+  width: 100%;
 }
 .img-idea p:nth-child(1) {
   grid-row: 1;
@@ -262,6 +272,16 @@ i {
   grid-row: 1;
   grid-column: 4/ span 10;
   padding-top: 80%;
+}
+.what-item p img {
+  width: 100%;
+}
+.what-item:nth-child(1) {
+  width: 40%;
+}
+.what-item:nth-child(2) {
+  width: 100%;
+  padding-left: 50px;
 }
 .site-footer {
   text-align: center;
@@ -322,6 +342,21 @@ i {
   }
   .blog-post-content iframe {
     height: 300px;
+  }
+  .post-container {
+    flex-flow: column;
+  }
+  .text-idea {
+    width: 100%;
+  }
+  .what-item {
+    width: 100% !important;
+  }
+  .what-row {
+    flex-flow: column !important;
+  }
+  .what-item:nth-child(2) {
+    padding-left: initial;
   }
 }
 @keyframes Nav-Link {
