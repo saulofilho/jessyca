@@ -13,9 +13,17 @@ export default () => {
           data-aos-duration="1000"
           data-aos-easing="ease-in-out"
         >
-          Hey, this is a bilingual portfolio. Then turn on CC in the videos.
-          If you don’t understand something, don’t be shy, just send a message.
-          Enjoy it.
+          Oh, hi. It’s you.☺
+          Welcome to the incredible world of my crazy mind.
+        <br/>
+        <br/>
+          Here you will see some really cool stuff that I made through the years.
+        <br/>
+          So, take a seat. 
+        <br/>
+          Let me grab a drink for you, and of course: feel at home. 
+        <br/>
+          [Just don't put your shoes at the sofa, please]
       </p>
       </div>
     </div>

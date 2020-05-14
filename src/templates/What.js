@@ -1,8 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
-import qs from 'qs'
-// import WhatCarousel from '../components/WhatCarousel'
 import Layout from '../components/Layout'
 
 export const WhatTemplate = ({

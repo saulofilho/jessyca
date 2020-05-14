@@ -47,12 +47,12 @@ module.exports = {
         name: 'jessyca',
         short_name: 'jessyca',
         start_url: '/',
-        background_color: '#fff',
-        theme_color: '#fff',
+        background_color: '#fdc5f5',
+        theme_color: '#b388eb',
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: 'standalone',
-        icon: `${__dirname}/static/images/icon.png` // This path is relative to the root of the site.
+        icon: `${__dirname}/static/images/icon.gif` // This path is relative to the root of the site.
       }
     },
 
