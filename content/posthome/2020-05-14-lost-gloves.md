@@ -8,10 +8,13 @@ title: Lost Gloves
  <div class="text-idea">
 
 This is Lost Gloves. A project that I did with my amazing partner, who also called Jessica. This project gives a second life to gloves that had been lost on the streets, so they can go back to warming those in need. Was a challenge and also fun to made it. Enjoy.
+
   </div>
   <div class="img-idea">
 
-![gif]()
+![gif](https://ucarecdn.com/c0f47bfa-6451-4ced-94d3-eebda24a0a9a/)
+
+![gif2](https://ucarecdn.com/78511679-d028-4cf4-aad3-bb130137dd72/)
 
   </div>
 </div>
