@@ -19,4 +19,26 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
   </div>
 </div>
 
+![board](https://ucarecdn.com/79f1939b-c816-42f3-b43f-61aafcdde4a0/)
+
+![](https://ucarecdn.com/9a953a6d-2ad4-4f0c-b8d0-bc4b5b476fd3/)
+
+![](https://ucarecdn.com/e3e63a77-3205-4693-bb7d-063c99271dba/)
+
+![](https://ucarecdn.com/00744d3d-f3c5-4a8c-a5f4-af4085dbdf4a/)
+
+![](https://ucarecdn.com/024b7388-07cc-489a-864c-c30755fc673c/)
+
+
+
+
+
+
+
+
+
+
+
+
+
 What I did: Idea, concept, copy, stop motion and photos
