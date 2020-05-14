@@ -82,7 +82,7 @@ export const pageQuery = graphql`
     }
     cases: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "postfun" } } }
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: DESC, fields: [frontmatter___title] }
     ) {
       edges {
         node {

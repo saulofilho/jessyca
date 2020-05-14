@@ -151,7 +151,7 @@
 
 //     allPosts: allMarkdownRemark(
 //       filter: { fields: { contentType: { eq: "postFun" } } }
-//       sort: { order: DESC, fields: [frontmatter___date] }
+//       sort: { order: DESC, fields: [frontmatter___title] }
 //     ) {
 //       edges {
 //         node {

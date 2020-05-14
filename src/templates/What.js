@@ -82,7 +82,7 @@ export const pageQuery = graphql`
     }
     vaga: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "postwhat" } } }
-      sort: { order: DESC, fields: [frontmatter___date] }
+      sort: { order: DESC, fields: [frontmatter___title] }
     ) {
       edges {
         node {
