@@ -2,7 +2,7 @@
 template: PostWhat
 title: Jessyca with Y, but you can call me Jessy.
 ---
-<div class="img-row">
+<div class="img-row what-row">
 
 <div class="what-item">
 
