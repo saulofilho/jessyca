@@ -7,7 +7,7 @@ title: Jessyca with Y, but you can call me Jessy.
 
 ![](https://ucarecdn.com/ba9785e0-3167-4ae8-8c82-2f4d098bb1ef/)
 
-Contact me: 
+## Contact me: 
 
 +55 (11) 995862872
 
@@ -19,7 +19,11 @@ jessyca.jcs@gmail.com
 
 Brazilian creative copywiter who doesn't know talk about herself.
 
-Experience:
+
+
+
+
+## Experience:
 
 As you can see I’m a freelancer now. So call me, let’s talk about what I can do to help you.
 
