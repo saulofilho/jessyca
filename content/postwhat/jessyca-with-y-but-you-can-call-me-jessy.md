@@ -5,9 +5,9 @@ title: Jessyca with Y, but you can call me Jessy.
 
 <div class="what-item">
 
-![](https://ucarecdn.com/ba9785e0-3167-4ae8-8c82-2f4d098bb1ef/)
+![](https://ucarecdn.com/09c7236f-069e-4111-9fc4-a4f0b90affa5/)
 
-## Contact me: 
+## Contact me:
 
 +55 (11) 995862872
 
@@ -18,10 +18,6 @@ jessyca.jcs@gmail.com
 <div class="what-item">
 
 Brazilian creative copywiter who doesn't know talk about herself.
-
-
-
-
 
 ## Experience:
 
