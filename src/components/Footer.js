@@ -16,5 +16,12 @@ export default () => (
           [♡Be nice, drink water, smoke weed and hug your dog♡]
       </p>
     </div>
+    <div className="social">
+      <a href="linkedin.com">
+        <div className="linkedin-logo">
+          in
+        </div>
+      </a>
+    </div>
   </footer>
 )
