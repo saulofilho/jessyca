@@ -42,22 +42,13 @@ export default (props) => {
 
   const [isOpen, setIsOpen] = useState(false);
   const menuClassNames = isOpen ? 'navigation-active' : 'site-header container';
+  const headerClassNames = isOpen ? 'header-active' : 'header-menu';
 
   return isHidden ? null : (
-    <header className="header-menu">
+    <header className={headerClassNames}>
       <div 
         className={menuClassNames}
       >
-        <div 
-          className="site-title"
-          data-aos="fade-in"
-          data-aos-offset="200"
-          data-aos-delay="50"
-          data-aos-duration="1000"
-          data-aos-easing="ease-in-out"
-        >
-          <Link to="/">home</Link>
-        </div>
         <nav 
           className="navigation"
           data-aos="fade-in"
@@ -66,6 +57,7 @@ export default (props) => {
           data-aos-duration="1000"
           data-aos-easing="ease-in-out"
         >
+          <Link to="/">What I do for money</Link>
           <Link to="/whatcamera">What I do with a camera</Link>
           <Link to="/whatfun">What I do for fun</Link>
           <Link to="/what">What</Link>
@@ -75,7 +67,7 @@ export default (props) => {
           className="button-blank menu-button"
           onClick={() => setIsOpen(!isOpen)}
         >
-          {isOpen ? <X color='#000' /> : <Menu color='#000' />}
+          {isOpen ? <X /> : <Menu />}
         </button>
       </div>
     </header>

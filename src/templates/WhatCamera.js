@@ -76,7 +76,6 @@ export const pageQuery = graphql`
       fields {
         contentType
       }
-      html
       frontmatter {
         title
       }

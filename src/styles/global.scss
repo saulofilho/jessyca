@@ -2,18 +2,6 @@ $font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubu
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;900&display=swap');
 
-html,
-body {
-  margin: 0;
-  padding: 0;
-  scroll-behavior: smooth;
-  width: 100%;
-  height: 100%;
-  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='30' height='36' viewport='0 0 100 100' style='fill:black;font-size:18px;'><text y='50%'>🤙🏾</text></svg>") 16 0,auto;
-}
-* {
-  margin-top: 0
-}
 body.light {
   --primary-color: #381696;
   --primary-text-color: #fff;
@@ -57,7 +45,18 @@ body.dark {
   --contact-bdr: var(--card-bg);
   --input-bg: var(--card-bg);
 }
-/* System Fonts as used by Medium and WordPress */
+html,
+body {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  width: 100%;
+  height: 100%;
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='30' height='36' viewport='0 0 100 100' style='fill:black;font-size:18px;'><text y='50%'>🤙🏾</text></svg>") 16 0,auto;
+}
+* {
+  margin-top: 0
+}
 body {
   font-family: 'PT Mono', monospace;
   background-color: var(--background);
@@ -75,6 +74,9 @@ body {
 ::selection {
   background-color: #b388eb;
   color: #fdc5f5;
+}
+.site-wrapper {
+  width: 100%;
 }
 h1 {
   font-family: 'Lato', sans-serif;
@@ -104,12 +106,14 @@ i {
     max-width: 100%;
   }
 }
+nav a {
+  font-weight: bolder;
+}
 .navigation {
   display: flex !important;
   align-items: center;
-  font-weight: 300;
   a {
-    margin: 0 8px 0;
+    padding-right: 60px;
   }
 }
 .navigation-active {
@@ -119,7 +123,6 @@ i {
   flex-flow: column;
   justify-content: center;
   align-items: center;
-  background: #fff;
 }
 .header-menu {
   position: fixed;
@@ -130,15 +133,26 @@ i {
   transition: top 0.3s;
   z-index: 1;
 }
+.header-active {
+  position: fixed;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--background);
+  top: 0;
+  transition: top 0.3s;
+  z-index: 1;
+}
 .menu-button {
   display: none !important;
+}
+.menu-button svg {
+  stroke: var(--text-color);
 }
 .site-header {
   display: flex;
   justify-content: space-between;
-  background: var(--site-header);
-  margin-bottom: 32px;
-  align-items: center;
+  align-items: flex-start;
   background: transparent;
 }
 .hero-header {
@@ -148,37 +162,9 @@ i {
   justify-content: center;
   align-items: center;
   width: 100%;
-  background-image: url("https://media.giphy.com/media/KpAPQVW9lWnWU/giphy.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-.button {
-  padding: 18px 27px;
-  display: inline-block;
-  background: var(--btn-bg);
-  border: 1px solid var(--btn-bdr);
-  border-radius: 9px;
-  text-decoration: none;
-  color: var(--btn-text-color);
-  font-size: 16px;
-  font-weight: 400;
-  margin: 0 20px 0 0;
-  transition: background-color .3s linear;
-  &.-primary {
-    background-color: var(--primary-color);
-    border-color: var(--primary-color);
-    color: var(--primary-text-color);
-    &:hover {
-      background-color: var(--secondary-color);
-      color: var(--primary-text-color);
-      text-decoration: none;
-    }
-  }
-  &:hover {
-    background-color: var(--btn-hover-bg);
-    color: var(--btn-hover-text-color);
-  }
 }
 .primary-content {
   font-size: 18px;
@@ -200,6 +186,7 @@ i {
   overflow: hidden;
   line-height: 1.5;
   padding: 100px 0;
+  font-size: 1rem;
 }
 .blog-post-content {
   width: 100%;
@@ -283,17 +270,22 @@ i {
   width: 100%;
   padding-left: 50px;
 }
+footer {
+  width: 100%;
+  height: 100%;
+}
 .site-footer {
   text-align: center;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
   height: 200px;
-  padding-top: 50px;
+  padding: 50px;
   color: #666;
-  a {
-    font-weight: 700;
+  overflow: hidden;
+  p {
+    font-size: 14px;
+    overflow: hidden;
   }
 }
 .button-blank {
@@ -306,25 +298,6 @@ i {
   align-items: center;
   justify-content: center;
 }
-/* Portrait and Landscape */
-// @media only screen 
-// and (min-width: 768px) {
-// .grids {
-//   grid-template-columns: 1fr 1fr;
-// }
-// }
-// @media only screen 
-//   and (min-width: 1024px) {
-//   .grids {
-//     grid-template-columns: 1fr 1fr 1fr;
-//   }
-//   .two-grids {
-//     display: grid;
-//     grid-template-columns: 1fr 1fr;
-//     grid-gap: 64px;
-//   }
-// }
-
 @media (max-width: 600px) {
   .menu-button {
     display: flex !important;
@@ -332,11 +305,12 @@ i {
   .navigation {
     display: none !important;
   }
-  .navigation-active {
-    display: flex !important;
+  .navigation a {
+    padding-bottom: 30px;
   }
   .navigation-active .navigation {
     display: flex !important;
+    flex-flow: column;
     animation: Nav-Link 0.9s ease;
   }
   .blog-post-content iframe {
@@ -356,6 +330,15 @@ i {
   }
   .what-item:nth-child(2) {
     padding-left: initial;
+  }
+  .mode-container {
+    padding-bottom: 30px;
+  }
+  .primary-content {
+    font-size: 14px;
+  }
+  h1 {
+    font-size: 3rem;
   }
 }
 @keyframes Nav-Link {
@@ -390,7 +373,6 @@ body.light {
 .mode-container {
   width: 24px;
   height: 24px;
-  margin-left: 20px;
 }
 // CSS.gg icons for sun and moon
 .gg-sun {

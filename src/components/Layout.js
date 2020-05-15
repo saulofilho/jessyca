@@ -50,6 +50,7 @@ export default ({ children, meta, title, location }) => {
               <HeaderMenu />
               <Fragment>{children}</Fragment>
               <Footer />
+
             </div>            
           </Fragment>
         )

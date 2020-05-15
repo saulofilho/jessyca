@@ -1,8 +1,8 @@
 import React from 'react'
 
 export default () => (
-  <div>
-    <footer
+  <footer>
+    <div
       className="site-footer"
       data-aos="fade-in"
       data-aos-offset="200"
@@ -15,6 +15,6 @@ export default () => (
           <br/>
           [♡Be nice, drink water, smoke weed and hug your dog♡]
       </p>
-    </footer>
-  </div>
+    </div>
+  </footer>
 )
