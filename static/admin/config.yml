@@ -34,7 +34,6 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Slug, name: slug, widget: hidden, default: '' }
           - { label: Title, name: title, widget: string }
-          - { label: Featured Images, name: featuredimage, widget: image }
 
       - file: 'content/pages/whatcamera.md'
         label: 'What Camera'

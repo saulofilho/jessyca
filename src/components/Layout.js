@@ -48,9 +48,13 @@ export default ({ children, meta, title, location }) => {
             />
             <div className="site-wrapper">
               <HeaderMenu />
-              <Fragment>{children}</Fragment>
+              <Fragment>
+                {children}
+              </Fragment>
+              <div className="btn-top">
+                <a href="#top">⇑</a>
+              </div>
               <Footer />
-
             </div>            
           </Fragment>
         )
