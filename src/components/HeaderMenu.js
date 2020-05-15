@@ -60,7 +60,7 @@ export default (props) => {
           <Link to="/">What I do for money</Link>
           <Link to="/whatcamera">What I do with a camera</Link>
           <Link to="/whatfun">What I do for fun</Link>
-          <Link to="/what">What</Link>
+          <Link to="/what">What?</Link>
         </nav>
         <ThemeChanger />
         <button
