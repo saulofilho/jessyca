@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Sketch from "react-p5";
+import {loadableP5 as Sketch} from './loadableP5'
 
 let frameOne;
 let frameTwo;
