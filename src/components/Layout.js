@@ -51,9 +51,6 @@ export default ({ children, meta, title, location }) => {
               <Fragment>
                 {children}
               </Fragment>
-              <div className="btn-top">
-                <a href="#top">⇑</a>
-              </div>
               <Footer />
             </div>            
           </Fragment>

@@ -80,17 +80,14 @@ body {
 }
 .btn-top {
   position: absolute;
-  bottom: 15%;
-  right: 15%;
+  top: 5%;
+  right: 50%;
+  left: 50%;
   position: fixed;
   cursor: pointer;
   z-index: 1;
   animation: Nav-Link 0.9s ease;
-  font-size: 1.5rem;
-}
-.btn-top a:hover {
-  position: relative;
-  top: -15px;
+  font-size: 5rem;
 }
 h1 {
   font-family: 'Lato', sans-serif;
@@ -329,10 +326,11 @@ footer {
 .site-footer {
   text-align: center;
   display: flex;
+  flex-flow: column;
   justify-content: center;
   align-items: center;
   height: 200px;
-  padding: 50px;
+  padding: 20px;
   color: var(--text-color);
   overflow: hidden;
   p {
@@ -349,6 +347,20 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.social {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social a svg {
+  width: 30px;
+}
+.social a svg path {
+  fill: var(--text-color);
+}
+.social a svg path:hover {
+  fill: var(--secondary-color);
 }
 @media (max-width: 600px) {
   .menu-button {

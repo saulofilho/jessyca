@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import CanvasSketch from '../components/CanvasSketch'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import Tilt from 'react-tilt'
 
 if (typeof window !== `undefined`) {
   AOS.init()
@@ -75,8 +76,9 @@ export const HomePageTemplate = ({
                 </div>
                 <div className="ideas container">
                   <section className="card">
+                    <Tilt className="Tilt" options={{ max: 100 }}>
                     <h1
-                      className="post-title"
+                      className="post-title Tilt-inner"
                       data-aos="fade-up"
                       data-aos-offset="200"
                       data-aos-delay="50"
@@ -85,6 +87,7 @@ export const HomePageTemplate = ({
                     >
                       {post.frontmatter.title}
                     </h1>
+                    </Tilt>
                     <div
                       className="blog-post-content"
                       dangerouslySetInnerHTML={{ __html: post.html }}

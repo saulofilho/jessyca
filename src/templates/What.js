@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
 import Layout from '../components/Layout'
+import Tilt from 'react-tilt'
 
 export const WhatTemplate = ({
   vaga = []
@@ -18,6 +19,7 @@ export const WhatTemplate = ({
           <div className="ideas container">
             {filteredPosts.map(post => (
               <section className="card">
+                <Tilt className="Tilt" options={{ max: 100 }}>
                 <h1
                   className="post-title"
                   data-aos="fade-up"
@@ -28,6 +30,7 @@ export const WhatTemplate = ({
                 >
                   {post.frontmatter.title}
                 </h1>
+                </Tilt>
                 <div
                   className="blog-post-content"
                   dangerouslySetInnerHTML={{ __html: post.html }}
