@@ -1,6 +1,0 @@
----
-title: Ideia MALUUUUCA
----
-IHDUDEHDUHUHDHUDIHUDUHDIHU
-
-![](https://ucarecdn.com/29095029-1742-49ed-9016-53403e00a274/)
