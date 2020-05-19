@@ -12,7 +12,6 @@ if (typeof window !== `undefined`) {
 }
 
 export const HomePageTemplate = ({
-  featuredimage,
   cases = []
 }) => (
     <Location>
