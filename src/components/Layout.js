@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import HeaderMenu from "./HeaderMenu"
+import ThemedExample from "./ThemedExample"
 import Footer from './Footer'
 import 'prismjs/themes/prism-okaidia.css'
 
@@ -51,8 +52,9 @@ export default ({ children, meta, title, location }) => {
               <Fragment>
                 {children}
               </Fragment>
+              <ThemedExample />
               <Footer />
-            </div>            
+            </div>
           </Fragment>
         )
       }}

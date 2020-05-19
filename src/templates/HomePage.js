@@ -95,7 +95,6 @@ export const HomePageTemplate = ({
                   />
                 </section>
               </div>
-
             ))}
           </>
         )
