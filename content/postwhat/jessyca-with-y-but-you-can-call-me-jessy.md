@@ -21,8 +21,6 @@ Jessyca with Y, but you can call me Jessy.
 
 Brazilian creative creative copywriter who doesn't know talk about herself.
 
-
-
 ## Experience:
 
 ➭Freelance creative copywriter at: F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Tribal DDB.
@@ -30,8 +28,6 @@ Brazilian creative creative copywriter who doesn't know talk about herself.
 ➭Creative copywriter at: DPZ&T, CP+B Brazil and Almap BBDO. 
 
 ➭Intern at: Ogilvy New York, Razorfish Berlin , Mullen Lowe Brazil and Publicis Brazil.
-
-
 
 </div>
 
