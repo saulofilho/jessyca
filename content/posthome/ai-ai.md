@@ -1,5 +1,6 @@
 ---
 title: Bartizado
+date: 2020-05-18
 ---
 <div class="post-container">
 
