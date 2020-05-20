@@ -6,6 +6,8 @@ title: Bartizado
 
 ![](https://ucarecdn.com/f56fa750-1767-445a-b1ce-024f76269319/)
 
+![](https://ucarecdn.com/8bda9c89-10c4-439e-ac0a-9405c9c4d7be/)
+
 
   </div>
 </div>
