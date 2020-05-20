@@ -30,3 +30,5 @@ After all, the best names deserve the best look.
 ![](https://ucarecdn.com/2ea08acd-3e00-40c7-9f0e-e732ffbf6a3a/)
 
 ![](https://ucarecdn.com/aaaa815e-010f-492a-8e3d-7feb400471f9/)
+
+What I did: Idea, concept and copy
