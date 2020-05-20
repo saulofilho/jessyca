@@ -1,5 +1,5 @@
 ---
-title: Jessyca with Y, but you can call me Jessy.
+title: Hey, It's me ☺
 ---
 <div class="img-row">
 
@@ -17,33 +17,21 @@ jessyca.jcs@gmail.com
 
 <div class="what-item">
 
-Brazilian creative copywiter who doesn't know talk about herself.
+Jessyca with Y, but you can call me Jessy.
+
+Brazilian creative creative copywriter who doesn't know talk about herself.
+
+
 
 ## Experience:
 
-As you can see I’m a freelancer now. So call me, let’s talk about what I can do to help you.
+➭Freelance creative copywriter at: F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Tribal DDB.
 
-•Tribal (Freelancer Copywriter)  - May / June 2019
+➭Creative copywriter at: DPZ&T, CP+B Brazil and Almap BBDO. 
 
-•Energy BBDO (Freelancer Copywriter)  - April 2019
+➭Intern at: Ogilvy New York, Razorfish Berlin , Mullen Lowe Brazil and Publicis Brazil.
 
-•DPZ&T (Copywriter)  - November 2018 / March 2019
 
-•Tribal (Freelancer Copywriter)  - October 2018
-
-•CP+B Brazil (Copywriter) - April 2017 / September 2018
-
-•Almap BBDO (Copywriter) - July 2016 / March 2017
-
-•Sunset (Freelancer Copywriter) - June 2016
-
-•Ogilvy NY (Quarter Away) - 2016
-
-•Razorfish Berlin (Quarter Away) - 2015
-
-•Mullen Lowe (Quarter Brazil) - 2015
-
-•Publicis (Quarter Brazil) - 2015
 
 </div>
 
