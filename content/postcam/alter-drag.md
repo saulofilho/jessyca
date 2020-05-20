@@ -1,5 +1,6 @@
 ---
 title: Alter Drag
+date: 2020-05-16
 ---
 The before, during and after of Drag Queens.
 
