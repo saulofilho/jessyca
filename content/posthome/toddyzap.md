@@ -10,15 +10,13 @@ So, we created exclusive GIFs, to bring more originality to WhatsApp families gr
 GIFs were hosted on GIPHY and released on social networks by various influencers and fans of the brand. Yummy and pretty cool.\
 
   </div>
-  <div class="img-idea">
 
+
+  <div class="img-idea">
 
 ![](https://ucarecdn.com/e1623990-3d3b-4b90-8735-0775e976e0da/)
 
-![](https://ucarecdn.com/03f98ffb-5035-4d7f-a655-79c7cc881220/)
-
-
-  </div>
+</div>
 </div>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/309981349?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
