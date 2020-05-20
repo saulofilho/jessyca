@@ -4,12 +4,17 @@ import { Location } from '@reach/router'
 import Layout from '../components/Layout'
 import Tilt from 'react-tilt'
 
+export const byDate = postcamPost => {
+  const now = Date.now()
+  return postcamPost.filter(post => Date.parse(post.date) <= now)
+}
+
 export const WhatCameraTemplate = ({
-  cases = []
+  postcamPost = []
 }) => (
     <Location>
       {() => {
-        let filteredPosts = cases
+        let filteredPosts = byDate(postcamPost)
 
         filteredPosts = filteredPosts.filter(post =>
           post.frontmatter.title.toLowerCase()
@@ -20,16 +25,16 @@ export const WhatCameraTemplate = ({
             {filteredPosts.map(post => (
               <section className="card">
                 <Tilt className="Tilt" options={{ max: 100 }}>
-                <h1
-                  className="post-title"
-                  data-aos="fade-up"
-                  data-aos-offset="200"
-                  data-aos-delay="50"
-                  data-aos-duration="1000"
-                  data-aos-easing="ease-in-out"
-                >
-                  {post.frontmatter.title}
-                </h1>
+                  <h1
+                    className="post-title"
+                    data-aos="fade-up"
+                    data-aos-offset="200"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out"
+                  >
+                    {post.frontmatter.title}
+                  </h1>
                 </Tilt>
                 <div
                   className="blog-post-content"
@@ -49,7 +54,7 @@ export const WhatCameraTemplate = ({
   )
 
 // Export Default WhatCamera for front-end
-const WhatCamera = ({ data: { page, cases }, location }) => (
+const WhatCamera = ({ data: { page, postcamPost }, location }) => (
   <Layout
     location={location}
     title={page.frontmatter.title || false}
@@ -58,7 +63,7 @@ const WhatCamera = ({ data: { page, cases }, location }) => (
       {...page}
       {...page.fields}
       {...page.frontmatter}
-      cases={cases.edges.map(post => ({
+      postcamPost={postcamPost.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
         ...post.node.fields
@@ -83,9 +88,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    cases: allMarkdownRemark(
+    postcamPost: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "postcam" } } }
-      sort: { order: DESC, fields: [frontmatter___title] }
+      sort: { order: ASC, fields: [frontmatter___date] }
     ) {
       edges {
         node {
@@ -96,6 +101,7 @@ export const pageQuery = graphql`
           html
           frontmatter {
             title
+            date
           }
         }
       }

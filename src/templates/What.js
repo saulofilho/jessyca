@@ -32,7 +32,7 @@ export const WhatTemplate = ({
                 </h1>
                 </Tilt>
                 <div
-                  className="blog-post-content"
+                  className="blog-post-content what-content"
                   dangerouslySetInnerHTML={{ __html: post.html }}
                   data-aos="fade-up"
                   data-aos-offset="200"

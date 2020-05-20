@@ -4,12 +4,17 @@ import { Location } from '@reach/router'
 import Layout from '../components/Layout'
 import Tilt from 'react-tilt'
 
+export const byDate = postfunPost => {
+  const now = Date.now()
+  return postfunPost.filter(post => Date.parse(post.date) <= now)
+}
+
 export const WhatFunTemplate = ({
-  cases = []
+  postfunPost = []
 }) => (
     <Location>
-      {({ location }) => {
-        let filteredPosts = cases
+      {() => {
+        let filteredPosts = byDate(postfunPost)
 
         filteredPosts = filteredPosts.filter(post =>
           post.frontmatter.title.toLowerCase()
@@ -20,16 +25,16 @@ export const WhatFunTemplate = ({
             {filteredPosts.map(post => (
               <section className="card">
                 <Tilt className="Tilt" options={{ max: 100 }}>
-                <h1
-                  className="post-title"
-                  data-aos="fade-up"
-                  data-aos-offset="200"
-                  data-aos-delay="50"
-                  data-aos-duration="1000"
-                  data-aos-easing="ease-in-out"
-                >
-                  {post.frontmatter.title}
-                </h1>
+                  <h1
+                    className="post-title"
+                    data-aos="fade-up"
+                    data-aos-offset="200"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out"
+                  >
+                    {post.frontmatter.title}
+                  </h1>
                 </Tilt>
                 <div
                   className="blog-post-content"
@@ -49,7 +54,7 @@ export const WhatFunTemplate = ({
   )
 
 // Export Default WhatFun for front-end
-const WhatFun = ({ data: { page, cases }, location }) => (
+const WhatFun = ({ data: { page, postfunPost }, location }) => (
   <Layout
     location={location}
     title={page.frontmatter.title || false}
@@ -58,7 +63,7 @@ const WhatFun = ({ data: { page, cases }, location }) => (
       {...page}
       {...page.fields}
       {...page.frontmatter}
-      cases={cases.edges.map(post => ({
+      postfunPost={postfunPost.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
         ...post.node.fields
@@ -83,9 +88,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    cases: allMarkdownRemark(
+    postfunPost: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "postfun" } } }
-      sort: { order: DESC, fields: [frontmatter___title] }
+      sort: { order: ASC, fields: [frontmatter___date] }
     ) {
       edges {
         node {
@@ -96,6 +101,7 @@ export const pageQuery = graphql`
           html
           frontmatter {
             title
+            date
           }
         }
       }

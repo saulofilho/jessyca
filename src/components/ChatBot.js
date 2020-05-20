@@ -27,6 +27,16 @@ const steps = [
   },
   {
     id: '3',
+    message: 'bork bork',
+    trigger: '4',
+  },
+  {
+    id: '4',
+    user: true,
+    trigger: '5',
+  },
+  {
+    id: '5',
     message: 'bork bork bork bork',
     trigger: '2',
   },
@@ -39,8 +49,7 @@ const ThemedExample = () => (
       headerTitle={"Cachorra Bandida Chat Line"}
       floating={true}  
       botAvatar={"https://cursorcss.s3-sa-east-1.amazonaws.com/cursor.png"}
-      userAvatar={"https://pbs.twimg.com/profile_images/1261298484252155907/ETeg24rh_400x400.jpg"}
-      speechSynthesis={{ enable: true, lang: 'en' }}
+      userAvatar={"https://jessyca-portfolio.netlify.app/favicon-32x32.png?v=2e7eb4814327f68dbf2b3a2749d8f377"}
     />
   </ThemeProvider>
 );

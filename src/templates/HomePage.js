@@ -11,12 +11,17 @@ if (typeof window !== `undefined`) {
   AOS.init()
 }
 
+export const byDate = posthomePost => {
+  const now = Date.now()
+  return posthomePost.filter(post => Date.parse(post.date) <= now)
+}
+
 export const HomePageTemplate = ({
-  cases = []
+  posthomePost = []
 }) => (
     <Location>
       {() => {
-        let filteredPosts = cases
+        let filteredPosts = byDate(posthomePost)
 
         filteredPosts = filteredPosts.filter(post =>
           post.frontmatter.title.toLowerCase()
@@ -103,7 +108,7 @@ export const HomePageTemplate = ({
   )
 
 // Export Default HomePage for front-end
-const HomePage = ({ data: { page, cases }, location }) => (
+const HomePage = ({ data: { page, posthomePost }, location }) => (
   <Layout
     location={location}
     title={page.frontmatter.title || false}
@@ -112,7 +117,7 @@ const HomePage = ({ data: { page, cases }, location }) => (
       {...page}
       {...page.fields}
       {...page.frontmatter}
-      cases={cases.edges.map(post => ({
+      posthomePost={posthomePost.edges.map(post => ({
         ...post.node,
         ...post.node.frontmatter,
         ...post.node.fields
@@ -137,9 +142,9 @@ export const pageQuery = graphql`
         title
       }
     }
-    cases: allMarkdownRemark(
+    posthomePost: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "posthome" } } }
-      sort: { order: DESC, fields: [frontmatter___title] }
+      sort: { order: ASC, fields: [frontmatter___date] }
     ) {
       edges {
         node {
@@ -150,6 +155,7 @@ export const pageQuery = graphql`
           html
           frontmatter {
             title
+            date
           }
         }
       }
