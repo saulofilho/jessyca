@@ -23,6 +23,8 @@ GIFs were hosted on GIPHY and released on social networks by various influencers
 
 <iframe src="https://player.vimeo.com/video/309981349?title=0&byline=0&portrait=0"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
+<div class="grid-idea">
+
 ![](https://ucarecdn.com/aca2ce66-74a0-4452-a075-cff8b96fc35b/)
 
 ![](https://ucarecdn.com/990f679c-07f4-4bc6-8443-63eeadb490f4/)
@@ -40,6 +42,8 @@ GIFs were hosted on GIPHY and released on social networks by various influencers
 ![](https://ucarecdn.com/45c03432-085c-49c5-b976-514ee948ae7b/)
 
 ![](https://ucarecdn.com/67842266-72ec-419d-868f-d74b93835880/)
+
+</div>
 
 ![](https://ucarecdn.com/44af72b8-5652-4e4b-bf72-4b7bccd3f258/)
 
