@@ -26,16 +26,14 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 
 <div class="img-row">
 
-
 ![](https://ucarecdn.com/4e884399-204f-49cb-8513-16d9ece839f9/)
 
 ![](https://ucarecdn.com/7682aa7c-97ff-44d3-8f3f-81f593524942/)
 
 ![](https://ucarecdn.com/264c2284-768a-4f92-9329-9d049d72e9f4/)
 
-![](https://ucarecdn.com/a445f2e4-7f0d-467e-94f0-f908ff429821/)
-
-
 </div>
+
+![](https://ucarecdn.com/a445f2e4-7f0d-467e-94f0-f908ff429821/)
 
 What I did: Idea, concept, copy, stop motion and photos
