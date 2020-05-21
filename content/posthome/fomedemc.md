@@ -12,14 +12,13 @@ A popular way to put the brand, again, literally at brazilians mouth.
 
 We also wanted to bring “food porn” for the brand, play with the petit appeal.
 
-\
-
   </div>
   <div class="img-idea">
-    colocar imagens do painel
-    colocar imagens do painel
-    colocar imagens do painel
-    ate 3 imagens
+
+
+ATEH 3 IMGS
+
+
   </div>
 </div>
 
