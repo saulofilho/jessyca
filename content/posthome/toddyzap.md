@@ -1,6 +1,6 @@
 ---
 title: ToddyZap
-date: 2020-05-19
+date: 2020-05-19T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
@@ -13,6 +13,8 @@ GIFs were hosted on GIPHY and released on social networks by various influencers
   </div>
 
   <div class="img-idea">
+
+![](https://ucarecdn.com/25a5d67e-4e2b-4877-a4e1-422ae2093ddc/)
 
 ![](https://ucarecdn.com/e1623990-3d3b-4b90-8735-0775e976e0da/)
 
