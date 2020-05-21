@@ -10,14 +10,13 @@ Was a digital campaign to talk about their products during the famous and amazin
 
 We did the ideas to work at Facebook, Instagram, Youtube, Google andbanners.Digital thinking, babe. ;)
 
-\
-
   </div>
   <div class="img-idea">
-    colocar imagens do painel
-    colocar imagens do painel
-    colocar imagens do painel
-    ate 3 imagens
+
+
+IMGS AQUI
+
+
   </div>
 </div>
 
