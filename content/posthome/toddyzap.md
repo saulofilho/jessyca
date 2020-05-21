@@ -8,7 +8,7 @@ Toddy is a famous hot cocoa brand, in Brazil, popular among the young ones. To g
 
 So, we created exclusive GIFs, to bring more originality to WhatsApp families groups. But it wasn’t any GIF. Each of them had a code to be used as a discount coupon on Rappi, a delivery app.
 
-GIFs were hosted on GIPHY and released on social networks by various influencers and fans of the brand. Yummy and pretty cool.\
+GIFs were hosted on GIPHY and released on social networks by various influencers and fans of the brand. Yummy and pretty cool.
 
   </div>
 
@@ -40,8 +40,6 @@ GIFs were hosted on GIPHY and released on social networks by various influencers
 ![](https://ucarecdn.com/45c03432-085c-49c5-b976-514ee948ae7b/)
 
 ![](https://ucarecdn.com/67842266-72ec-419d-868f-d74b93835880/)
-
-
 
 ![](https://ucarecdn.com/44af72b8-5652-4e4b-bf72-4b7bccd3f258/)
 
