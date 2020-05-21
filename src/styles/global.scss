@@ -404,7 +404,27 @@ footer {
 .social a svg path:hover {
   fill: var(--secondary-color);
 }
+.grid-idea {
+  display: grid;
+  grid-gap: 15px;
+  grid-template-columns: repeat(3, 1fr);
+  padding-bottom: 3rem;
+}
+.grid-idea p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.cepera-iframe {
+  height: 410px !important;
+  padding-bottom: 3rem;
+}
 @media (max-width: 600px) {
+  .grid-idea {
+    display: grid;
+    grid-gap: 15px;
+    grid-template-columns: 1fr;
+    padding-bottom: 3rem;
+  }
   .text-idea {
     width: 100%;
     height: auto;
