@@ -19,7 +19,7 @@ jessyca.jcs@gmail.com
 
 Jessyca with Y, but you can call me Jessy.
 
-Brazilian creative creative copywriter who doesn't know talk about herself.
+Brazilian creative copywriter who doesn't know talk about herself, but can talk for hours about her dog.
 
 ## Experience:
 
