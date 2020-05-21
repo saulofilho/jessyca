@@ -12,15 +12,14 @@ So we've created a campaign to show that only Aruba can offer a real vacation, a
   </div>
   <div class="img-idea">
 
-
 NUM SEI
 
   </div>
 </div>
 
-<iframe src="https://player.vimeo.com/video/198675685?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/198675685?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/199658503?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/199658503?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/37980e3e-0cb3-4abb-b2de-47a9c47e87a4/)
 
