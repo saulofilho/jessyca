@@ -1,6 +1,6 @@
 ---
 title: Lost Gloves
-date: 2020-01-01
+date: 2020-01-01T00:00:00.000Z
 ---
 <div class="post-container">
 
@@ -21,5 +21,21 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 </div>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/223200678?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+![](https://ucarecdn.com/fc5b023a-396b-4e28-8052-9a78fb38191b/)
+
+<div class="img-row">
+
+
+![](https://ucarecdn.com/4e884399-204f-49cb-8513-16d9ece839f9/)
+
+![](https://ucarecdn.com/7682aa7c-97ff-44d3-8f3f-81f593524942/)
+
+![](https://ucarecdn.com/264c2284-768a-4f92-9329-9d049d72e9f4/)
+
+![](https://ucarecdn.com/a445f2e4-7f0d-467e-94f0-f908ff429821/)
+
+
+</div>
 
 What I did: Idea, concept, copy, stop motion and photos
