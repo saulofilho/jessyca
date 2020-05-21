@@ -7,7 +7,7 @@ date: 2020-01-08T00:00:00.000Z
 <div class="img-idea">
    
 
-![](https://ucarecdn.com/4c162bac-456f-45ee-8562-f7df86b07a50/)
+![](https://ucarecdn.com/dd14893e-b468-4e7b-8c0f-7b706ff90cf1/)
 
 ![](https://ucarecdn.com/dacf7eea-8954-4eb7-bfd1-2a96e0fa08c6/)
 
