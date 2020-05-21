@@ -12,7 +12,7 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 
 <div class="img-idea">
 
-![](https://ucarecdn.com/8a0ee11a-b6c5-4d7c-a84c-e87ba1aefe33/)
+![](https://ucarecdn.com/3d7f67ff-4ed0-4397-87aa-2257b7806273/)
 
 ![](https://ucarecdn.com/5b5bf15c-fb1c-4302-8934-3cf0d0574d83/)
 
@@ -21,8 +21,6 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 </div>
 
 <iframe src="https://player.vimeo.com/video/223200678?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-
 
 ![](https://ucarecdn.com/fc5b023a-396b-4e28-8052-9a78fb38191b/)
 
