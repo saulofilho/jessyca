@@ -1,5 +1,6 @@
 ---
 title: Olinda de viver
+date: 2020-01-04
 ---
 <div class="post-container">
   <div class="text-idea">
