@@ -11,7 +11,9 @@ So we've created a campaign to show that only Aruba can offer a real vacation, a
 
   </div>
   <div class="img-idea">
-NUM SEI AINDA
+
+
+NUM SEI
 
   </div>
 </div>
