@@ -1,12 +1,12 @@
 ---
 title: bartizado
-date: 2020-05-20
+date: 2020-05-20T00:00:00.000Z
 ---
 <div class="post-container">
 
   <div class="img-idea">
 
-![](https://ucarecdn.com/f56fa750-1767-445a-b1ce-024f76269319/)
+![]()
 
 ![](https://ucarecdn.com/8bda9c89-10c4-439e-ac0a-9405c9c4d7be/)
 
