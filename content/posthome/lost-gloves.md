@@ -12,7 +12,7 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 
 <div class="img-idea">
 
-![](https://ucarecdn.com/3d7f67ff-4ed0-4397-87aa-2257b7806273/)
+![](https://ucarecdn.com/b3bfa8ba-9dd1-41d3-b42b-27d68e2099b4/)
 
 ![](https://ucarecdn.com/5b5bf15c-fb1c-4302-8934-3cf0d0574d83/)
 
