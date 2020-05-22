@@ -27,6 +27,6 @@ See the video below to understand everything..
 
 <iframe src="https://player.vimeo.com/video/159091418?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-![](https://ucarecdn.com/74881d4c-94cd-4e0f-bd04-8d89716b901d/)
+![](https://ucarecdn.com/e3a2fc0a-446d-4662-8854-28f74207ed3f/)
 
 What I did: Idea, concept and copy
