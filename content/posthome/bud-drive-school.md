@@ -6,9 +6,11 @@ date: 2020-01-05T00:00:00.000Z
 
 <div class="img-idea">
 
+![](https://ucarecdn.com/b4b0f496-8c7d-4e02-9f25-d8d2e90bbba2/)
+
 ![](https://ucarecdn.com/2ae31413-d71a-4d71-87dc-36a0e42ed10d/)
 
-![](https://ucarecdn.com/df787ace-c12e-46d1-9886-907111692d6e/)
+![]()
 
   </div>
   <div class="text-idea">
@@ -24,5 +26,7 @@ See the video below to understand everything..
   </div>
 
 <iframe src="https://player.vimeo.com/video/159091418?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+![](https://ucarecdn.com/74881d4c-94cd-4e0f-bd04-8d89716b901d/)
 
 What I did: Idea, concept and copy
