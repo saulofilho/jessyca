@@ -12,7 +12,7 @@ So we've created a campaign to show that only Aruba can offer a real vacation, a
   </div>
   <div class="img-idea">
 
-NUM SEI
+![](https://ucarecdn.com/5adeef32-de6e-41c3-a2f8-5aba402a8c4b/)
 
   </div>
 </div>
