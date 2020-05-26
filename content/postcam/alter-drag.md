@@ -1,6 +1,6 @@
 ---
 title: Alter Drag
-date: 2020-01-10
+date: 2020-01-10T00:00:00.000Z
 ---
 In this project I photographed the before, during and after of Drag Queens.
 
@@ -85,5 +85,3 @@ In this project I photographed the before, during and after of Drag Queens.
 </div>
 
 ![](https://ucarecdn.com/bd14c954-b64d-4b7a-b526-6c854d875a90/)
-
-For more: [www.flickr.com/photos/jessycajcs](www.flickr.com/photos/jessycajcs)
