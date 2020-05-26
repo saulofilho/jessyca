@@ -1,8 +1,8 @@
 ---
 title: Alter Drag
-date: 2020-05-16
+date: 2020-05-16T00:00:00.000Z
 ---
-The before, during and after of Drag Queens.
+In this project I photographed the before, during and after of Drag Queens.
 
 <div class="img-row">
 
