@@ -20,7 +20,7 @@ We also wanted to bring “food porn” for the brand, play with the petit appea
   </div>
 </div>
 
-![]()
+![](https://ucarecdn.com/63ffb38a-ed3d-4fd0-b9fa-da692d0120d6/)
 
 ![](https://ucarecdn.com/0d430bbb-6156-42c4-914e-a365a5fcb425/)
 
