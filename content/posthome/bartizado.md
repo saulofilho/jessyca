@@ -6,7 +6,7 @@ date: 2020-01-04T00:00:00.000Z
 
   <div class="img-idea">
 
-![](https://ucarecdn.com/b138ddaa-8134-406a-be5c-6385c374b2df/)
+![](https://ucarecdn.com/c82fa704-13c6-425e-8751-4a9a80375dbb/)
 
 ![](https://ucarecdn.com/2a01fdea-8c16-4ecc-911f-29ae32f807dc/)
 
