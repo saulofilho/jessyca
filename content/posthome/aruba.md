@@ -3,16 +3,18 @@ title: Aruba
 date: 2020-01-06T00:00:00.000Z
 ---
 <div class="post-container">
+
+  <div class="img-idea">
+
+![](https://ucarecdn.com/5adeef32-de6e-41c3-a2f8-5aba402a8c4b/)
+
+  </div>
+
   <div class="text-idea">
 
 When people think of vacations, they think of rest, relaxation, bikinis and martinis, not the chaos found in the most popular destinations by tourists.
 
 So we've created a campaign to show that only Aruba can offer a real vacation, and an amazing tan.
-
-  </div>
-  <div class="img-idea">
-
-![](https://ucarecdn.com/5adeef32-de6e-41c3-a2f8-5aba402a8c4b/)
 
   </div>
 </div>
