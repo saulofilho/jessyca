@@ -15,7 +15,7 @@ date: 2020-01-08T00:00:00.000Z
 
   <div class="text-idea">
 
-The last, but not the least.
+The last, but not the least. 
 
 Cepêra is a Brazilian food brand specialized in condiments. They needed a change of position to launch the new product line Sabores Cepêra. We created a whole new concept and visual for the brand and the new line. The idea was to make it more fun to attract the youth.
 
