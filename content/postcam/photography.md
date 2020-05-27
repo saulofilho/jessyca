@@ -2,7 +2,7 @@
 title: Photography
 date: 2020-05-26T00:00:00.000Z
 ---
-<div class="img-row pad-bottom">
+<div class="img-row">
 
 ![](https://ucarecdn.com/14ed26a3-3fcd-4ca4-8e01-a7ae4f85b0fe/)
 
