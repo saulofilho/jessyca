@@ -2,7 +2,7 @@
 title: Trip - Zine
 date: 2020-05-26T00:00:00.000Z
 ---
-<div class="insta pad-bottom">
+<div class="title-pad">
 
 A zine that mixes art, photography, travel and weed. [Instagram](https://www.instagram.com/zinetrip/)
 
