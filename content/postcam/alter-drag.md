@@ -4,7 +4,7 @@ date: 2020-01-05T00:00:00.000Z
 ---
 In this project I photographed the before, during and after of Drag Queens.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/397870522" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/397870522" frameborder="0" allowfullscreen></iframe>
 
 <div class="img-row pad-bottom">
 
