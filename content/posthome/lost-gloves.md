@@ -20,7 +20,7 @@ This is Lost Gloves. A project that I did with my amazing partner, who also call
 
 </div>
 
-<iframe src="https://player.vimeo.com/video/223200678?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/223200678?title=0&byline=0&portrait=0" frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/fc5b023a-396b-4e28-8052-9a78fb38191b/)
 
