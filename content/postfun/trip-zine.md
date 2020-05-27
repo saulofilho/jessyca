@@ -1,8 +1,12 @@
 ---
 title: Trip - Zine
-date: 2020-05-26
+date: 2020-05-26T00:00:00.000Z
 ---
+<div class="insta pad-bottom">
+
 A zine that mixes art, photography, travel and weed. [Instagram](https://www.instagram.com/zinetrip/)
+
+</div>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/397870522" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
