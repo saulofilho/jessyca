@@ -2,7 +2,11 @@
 title: Eternal disposable
 date: 2020-01-10T00:00:00.000Z
 ---
-Eternal photos of a disposable camera taken in New York
+<div class="title-pad">
+
+Eternal photos of a disposable camera taken in New York.
+
+</div>
 
 <div class="pad-bottom">
 
