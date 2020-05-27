@@ -75,6 +75,7 @@ export const HomePageTemplate = ({
               <div
                 key={post.frontmatter.title}
                 className="ideas container"
+                id={post.frontmatter.title.replace(/\s/g, "")}
               >
                 <section className="card">
                   <Tilt className="Tilt" options={{ max: 100 }}>

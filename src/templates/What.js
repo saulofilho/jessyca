@@ -16,9 +16,12 @@ export const WhatTemplate = ({
         )
 
         return (
-          <div className="ideas container">
+          <div className="ideas container what">
             {filteredPosts.map(post => (
-              <section className="card">
+              <section 
+                className="card"
+                id={post.frontmatter.title.replace(/\s/g, "")}
+              >
                 <Tilt className="Tilt" options={{ max: 100 }}>
                 <h1
                   className="post-title"

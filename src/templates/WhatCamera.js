@@ -23,7 +23,10 @@ export const WhatCameraTemplate = ({
         return (
           <div className="ideas container camera">
             {filteredPosts.map(post => (
-              <section className="card">
+              <section 
+                id={post.frontmatter.title.replace(/\s/g, "")}
+                className="card"
+              >
                 <Tilt className="Tilt" options={{ max: 100 }}>
                   <h1
                     className="post-title"
