@@ -29,6 +29,14 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ➭Intern at: Ogilvy New York, Razorfish Berlin , Mullen Lowe Brazil and Publicis Brazil.
 
+## Clients:
+
+Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pesico, Natura, L'occitane Au Brésil, Bauducco, Audi, Jägermeister, Nestlé, Subway and more.
+
+
+
+
+
 </div>
 
 </div>
