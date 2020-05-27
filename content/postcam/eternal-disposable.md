@@ -4,7 +4,7 @@ date: 2020-01-10T00:00:00.000Z
 ---
 Eternal photos of a disposable camera taken in New York
 
-<div class="eternal">
+<div class="pad-bottom">
 
 ![](https://ucarecdn.com/4c53fd0d-92fe-40a4-b7e3-e72f35d0de76/)
 
