@@ -21,7 +21,7 @@ export const WhatFunTemplate = ({
         )
 
         return (
-          <div className="ideas container">
+          <div className="ideas container fun">
             {filteredPosts.map(post => (
               <section className="card">
                 <Tilt className="Tilt" options={{ max: 100 }}>

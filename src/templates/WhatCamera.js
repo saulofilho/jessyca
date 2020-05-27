@@ -21,7 +21,7 @@ export const WhatCameraTemplate = ({
         )
 
         return (
-          <div className="ideas container">
+          <div className="ideas container camera">
             {filteredPosts.map(post => (
               <section className="card">
                 <Tilt className="Tilt" options={{ max: 100 }}>

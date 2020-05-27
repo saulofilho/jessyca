@@ -6,8 +6,6 @@ import ThemeChanger from "./ThemeChanger"
 import { debounce } from "lodash"
 
 const HeaderMenu = () => {
-  // Header Menu  svgs on hover
-
   // Header Menu Navigation
   const [isOpen, setIsOpen] = useState(false);
   const menuClassNames = isOpen ? 'navigation-active' : 'site-header container';
@@ -43,13 +41,17 @@ const HeaderMenu = () => {
     };
   }, []);
 
-  return isHidden ?
-    (<div className="btn-top">
-      <a href="#top" className="link-top">
-        <Smile className="smile" size={36} />
-        <ArrowUp className="arrow-up" size={36} />
-      </a>
-    </div>) : (
+  if (isHidden && !isOpen) {
+    return (
+      <div className="btn-top">
+        <a href="#top" className="link-top">
+          <Smile className="smile" size={36} />
+          <ArrowUp className="arrow-up" size={36} />
+        </a>
+      </div>
+    )
+  } else {
+    return (
       <header className={headerClassNames}>
         <div
           className={menuClassNames}
@@ -77,6 +79,7 @@ const HeaderMenu = () => {
         </div>
       </header>
     )
+  }
 }
 
 export default HeaderMenu;
