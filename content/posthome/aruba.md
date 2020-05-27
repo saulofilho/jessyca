@@ -19,9 +19,9 @@ So we've created a campaign to show that only Aruba can offer a real vacation, a
   </div>
 </div>
 
-<iframe src="https://player.vimeo.com/video/198675685?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/198675685?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="640" height="360" frameborder="0" ></iframe>
 
-<iframe src="https://player.vimeo.com/video/199658503?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/199658503?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="640" height="360" frameborder="0" ></iframe>
 
 ![](https://ucarecdn.com/37980e3e-0cb3-4abb-b2de-47a9c47e87a4/)
 
