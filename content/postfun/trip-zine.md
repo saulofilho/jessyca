@@ -1,10 +1,10 @@
 ---
 title: Trip - Zine
-date: 2020-05-24
+date: 2020-05-24T00:00:00.000Z
 ---
 <div class="title-pad">
 
-A zine that mixes art, photography, travel and weed. [Instagram](https://www.instagram.com/zinetrip/)
+A zine that mixes art, photography, travel and weed.
 
 </div>
 
@@ -30,7 +30,9 @@ A zine that mixes art, photography, travel and weed. [Instagram](https://www.ins
 
 </div>
 
-I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post some design experiment
+
+
+I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post some design experiment.
 
 <div class="img-row">
 
