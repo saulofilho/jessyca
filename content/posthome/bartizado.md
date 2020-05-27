@@ -27,7 +27,7 @@ After all, the best names deserve the best look.
 
   </div>
 
-<iframe src="https://player.vimeo.com/video/347774700?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/347774700?title=0&byline=0&portrait=0" width="640" height="360"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/2ea08acd-3e00-40c7-9f0e-e732ffbf6a3a/)
 
