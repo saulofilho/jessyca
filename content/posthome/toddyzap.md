@@ -21,7 +21,7 @@ GIFs were hosted on GIPHY and released on social networks by various influencers
 </div>
 </div>
 
-<iframe src="https://player.vimeo.com/video/309981349?title=0&byline=0&portrait=0"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/309981349?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <div class="grid-idea">
 
