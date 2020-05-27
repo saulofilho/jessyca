@@ -2,9 +2,13 @@
 title: Alter Drag
 date: 2020-01-05T00:00:00.000Z
 ---
+<div class="title-pad">
+
 In this project I photographed the before, during and after of Drag Queens.
 
-<div class="img-row pad-bottom">
+</div>
+
+<div class="img-row">
 
 ![](https://ucarecdn.com/64470dea-eb95-4fad-bcf7-2d472f870c2c/)
 
