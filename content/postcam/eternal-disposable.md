@@ -1,10 +1,14 @@
 ---
 title: Eternal disposable
-date: 2020-01-10
+date: 2020-01-10T00:00:00.000Z
 ---
 Eternal photos of a disposable camera taken in New York
 
+<div class="eternal">
+
 ![](https://ucarecdn.com/4c53fd0d-92fe-40a4-b7e3-e72f35d0de76/)
+
+</div>
 
 <div class="img-row">
 
@@ -15,8 +19,6 @@ Eternal photos of a disposable camera taken in New York
 </div>
 
 ![](https://ucarecdn.com/de39875c-2613-4f92-8386-449088d88845/)
-
-
 
 <div class="img-row">
 
@@ -29,8 +31,6 @@ Eternal photos of a disposable camera taken in New York
 </div>
 
 ![](https://ucarecdn.com/610c2ff9-19c4-4ec1-af06-20be574b4b65/)
-
-
 
 <div class="img-row">
 
