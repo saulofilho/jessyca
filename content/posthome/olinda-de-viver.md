@@ -17,7 +17,7 @@ Olinda de Viver is a L'Occitane Au Brésil fragrance inspired by the everyday jo
 ![](https://ucarecdn.com/4cd4b5c1-212c-464b-a9ba-a16897378348/-/crop/1560x2202/60,0/-/preview/)
 
 </div>
-</div>
+ </div>
 
 <iframe src="https://player.vimeo.com/video/267871573?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
