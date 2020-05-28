@@ -6,7 +6,7 @@ date: 2020-01-02T00:00:00.000Z
 
   <div class="img-idea">
 
-IMGS AQUI
+![](https://ucarecdn.com/2e7a7170-4766-4c81-aaf1-afbc779049b4/)
 
   </div>
 
