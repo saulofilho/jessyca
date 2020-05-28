@@ -20,8 +20,6 @@ We did the ideas to work at Facebook, Instagram, Youtube, Google andbanners.Digi
   </div>
 </div>
 
-![](https://ucarecdn.com/5c5f6c40-84a8-40ec-a39e-eca5411bfc24/)
-
 <iframe src="https://player.vimeo.com/video/423758645?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/423757464?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
