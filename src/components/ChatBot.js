@@ -48,6 +48,7 @@ const ThemedExample = () => (
       steps={steps} 
       headerTitle={"Cachorra Bandida Chat Line"}
       floating={true}  
+      speechSynthesis={{ enable: true, lang: 'en' }}
       botAvatar={"https://cursorcss.s3-sa-east-1.amazonaws.com/cursor.png"}
       userAvatar={"https://jessyca-portfolio.netlify.app/favicon-32x32.png?v=2e7eb4814327f68dbf2b3a2749d8f377"}
     />
