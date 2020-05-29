@@ -24,6 +24,7 @@ export const WhatCameraTemplate = ({
           <div className="ideas container camera">
             {filteredPosts.map(post => (
               <section 
+                key={post.frontmatter.title}
                 id={post.frontmatter.title.replace(/\s/g, "")}
                 className="card"
               >

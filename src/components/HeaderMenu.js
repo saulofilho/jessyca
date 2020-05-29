@@ -41,10 +41,23 @@ const HeaderMenu = () => {
     };
   }, []);
 
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 1000,
+      behavior: 'smooth'
+    });
+  }
+
   if (isHidden && !isOpen) {
     return (
       <div className="btn-top">
-        <a href="#top" className="link-top">
+        <a 
+          onClick={() => {
+            scrollToTop()
+          }}
+          href="#top" 
+          className="link-top"
+        >
           <Smile className="smile" size={36} />
           <ArrowUp className="arrow-up" size={36} />
         </a>
@@ -52,7 +65,10 @@ const HeaderMenu = () => {
     )
   } else {
     return (
-      <header className={headerClassNames}>
+      <header 
+        id="top"
+        className={headerClassNames}
+      >
         <div
           className={menuClassNames}
         >

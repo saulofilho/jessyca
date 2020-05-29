@@ -24,6 +24,7 @@ export const WhatFunTemplate = ({
           <div className="ideas container fun">
             {filteredPosts.map(post => (
               <section 
+                key={post.frontmatter.title}
                 id={post.frontmatter.title.replace(/\s/g, "")}
                 className="card"
               >

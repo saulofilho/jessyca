@@ -19,6 +19,7 @@ export const WhatTemplate = ({
           <div className="ideas container what">
             {filteredPosts.map(post => (
               <section 
+                key={post.frontmatter.title}
                 className="card"
                 id={post.frontmatter.title.replace(/\s/g, "")}
               >
