@@ -4,9 +4,6 @@ import { Menu, X, Smile, ArrowUp } from 'react-feather'
 import 'prismjs/themes/prism-okaidia.css'
 import ThemeChanger from "./ThemeChanger"
 import { debounce } from "lodash"
-import smoothscroll from 'smoothscroll-polyfill'
-
-smoothscroll.polyfill();
 
 const HeaderMenu = () => {
   // Header Menu Navigation
