@@ -20,7 +20,7 @@ We did the ideas to work at Facebook, Instagram, Youtube, Google andbanners.Digi
   </div>
 </div>
 
-<div class="img-row">
+<div class="img-row iframe-row">
 
 <iframe src="https://player.vimeo.com/video/423758645?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
