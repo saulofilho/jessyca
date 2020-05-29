@@ -189,6 +189,13 @@ nav a {
 .arrow-up {
   color: var(--text-color);
 }
+.link-top {
+  background: none;
+  border: none;
+  cursor: pointer;
+  width: auto;
+  height: auto;
+}
 .link-top .arrow-up,
 .link-top:hover .smile {
   display: none;
