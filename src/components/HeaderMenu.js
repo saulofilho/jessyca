@@ -4,6 +4,9 @@ import { Menu, X, Smile, ArrowUp } from 'react-feather'
 import 'prismjs/themes/prism-okaidia.css'
 import ThemeChanger from "./ThemeChanger"
 import { debounce } from "lodash"
+import smoothscroll from 'smoothscroll-polyfill'
+
+smoothscroll.polyfill();
 
 const HeaderMenu = () => {
   // Header Menu Navigation
@@ -42,10 +45,7 @@ const HeaderMenu = () => {
   }, []);
 
   const scrollToTop = () => {
-    window.scroll({
-      top: 1000,
-      behavior: 'smooth'
-    });
+    window.scroll({ top: 0, left: 0, behavior: 'smooth' });
   }
 
   if (isHidden && !isOpen) {
