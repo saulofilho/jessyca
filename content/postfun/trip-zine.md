@@ -30,9 +30,11 @@ A zine that mixes art, photography, travel and weed.
 
 </div>
 
-
+<div class="title-pad">
 
 I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post some design experiment.
+
+</div>
 
 <div class="img-row">
 
