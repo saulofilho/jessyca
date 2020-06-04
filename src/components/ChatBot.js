@@ -46,7 +46,7 @@ const ThemedExample = () => (
   <ThemeProvider theme={theme}>
     <ChatBot 
       steps={steps} 
-      headerTitle={"Cachorra Bandida Chat Line"}
+      headerTitle={"Talk to my dog"}
       floating={true}  
       speechSynthesis={{ enable: true, lang: 'en' }}
       botAvatar={"https://cursorcss.s3-sa-east-1.amazonaws.com/cursor.png"}
