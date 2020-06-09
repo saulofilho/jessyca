@@ -260,7 +260,8 @@ nav a {
   align-items: center;
 }
 .fun, 
-.camera {
+.camera,
+.what {
   padding-top: 100px;
 }
 .what h2 {
@@ -268,6 +269,9 @@ nav a {
 }
 .what .img-row p:nth-child(2) {
   padding-left: 0;
+}
+.what .what-item p {
+  font-size: 18px;
 }
 .title-pad {
   padding: 30px 0;
@@ -285,7 +289,7 @@ nav a {
 }
 .what-content .img-row {
   align-items: flex-start;
-  padding-top: 50px;
+  padding-top: 80px;
 }
 .blog-post-content {
   width: 100%;
