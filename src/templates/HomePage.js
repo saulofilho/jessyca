@@ -2,14 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import { Location } from '@reach/router'
 import Layout from '../components/Layout'
-// import CanvasSketch from '../components/CanvasSketch'
-import AOS from 'aos'
-import 'aos/dist/aos.css'
 import Tilt from 'react-tilt'
-
-if (typeof window !== `undefined`) {
-  AOS.init()
-}
 
 export const byDate = posthomePost => {
   const now = Date.now()
@@ -17,7 +10,8 @@ export const byDate = posthomePost => {
 }
 
 export const HomePageTemplate = ({
-  posthomePost = []
+  posthomePost = [],
+  image
 }) => (
     <Location>
       {() => {
@@ -29,7 +23,10 @@ export const HomePageTemplate = ({
 
         return (
           <>
-            <div className="canvas-sketch">
+            <div 
+              className="canvas-sketch"
+              style={{backgroundImage: `url(${image})`}}
+            >
               <div
                 className="primary-content container"
               >
@@ -141,6 +138,7 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        image
       }
     }
     posthomePost: allMarkdownRemark(
@@ -149,7 +147,6 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt
           fields {
             slug
           }
