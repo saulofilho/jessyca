@@ -31,11 +31,7 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ## Clients:
 
-Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
-
-
-
-
+Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
 
 </div>
 
