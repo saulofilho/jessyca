@@ -15,7 +15,7 @@ date: 2020-01-04T00:00:00.000Z
 
 Let me explain for “gringo” folks this idea:
 
-The bar owners in Brazil are experts at naming an establishment with style. Ypióca, the oldest cachaça (a typical beverage made with sugar cane) brand in Brazil, wants to value this unique and so Brazilian skill.
+The bar owners in Brazil are experts at naming an establishment with style. Ypióca, the oldest cachaça brand in Brazil, wants to value this unique and so Brazilian skill.
 
 With that in mind, we created a promotion to choose the 3 most creative bar names in Brazil. Ypióca's spokesmen selected, voted and picked the 3 winners.
 
