@@ -6,7 +6,7 @@ date: 2020-01-01T00:00:00.000Z
 
 <div class="text-idea">
 
-This is Lost Gloves. A project that I did with my amazing partner, who also called Jessica. This project gives a second life to gloves that had been lost on the streets, so they can go back to warming those in need. Was a challenge and also fun to made it. Enjoy.
+This is Lost Gloves. A project that gives a new opportunity to gloves that had been lost on the streets, so they can go back to warming those in need. Was a challenge and also fun to made it. Enjoy.
 
 </div>
 
