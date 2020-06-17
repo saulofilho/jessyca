@@ -2,11 +2,7 @@
 title: Alter Drag
 date: 2020-01-05T00:00:00.000Z
 ---
-<div class="title-pad">
-
-Drag queens aren't  just made of glamour. They put a lot of hard work to look fabulous and fierce. To show a lil bit of it, I photographed the before, during and after of Drag Queens.
-
-</div>
+###### Drag queens aren't  just made of glamour. They put a lot of hard work to look fabulous and fierce. To show a lil bit of it, I photographed the before, during and after of Drag Queens.
 
 <div class="img-row">
 
