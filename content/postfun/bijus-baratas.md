@@ -2,7 +2,9 @@
 title: Bijus Baratas
 date: 2020-01-15T00:00:00.000Z
 ---
-Bijus Baratas (cheap beads) is my brand of accessories. I do everything, absolutely everything. I do the pieces, social, photos, copies, design, filters for stories ... you get it, right? 
+Bijus Baratas (cheap beads) is my brand of accessories. 
+
+I do everything, absolutely everything. I do the pieces, social, photos, copies, design, filters for stories ... you get it, right? 
 
 Check the [website](http://bijusbaratas.iluria.com/) and [Instagram](http://instagram.com/loja.bijusbaratas), and of course, buy it.
 
