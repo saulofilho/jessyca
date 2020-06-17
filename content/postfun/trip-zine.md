@@ -66,4 +66,6 @@ I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post s
 
 </div>
 
+
+
 Want one? Mail me: jessyca.jcs@gmail.com
