@@ -112,6 +112,10 @@ h1 {
   text-align: center;
   line-height: 1;
 }
+h6 {
+  font-size: 14px;
+  padding-bottom: 30px;
+}
 a {
   font-family: 'Lato', sans-serif;
   color: var(--text-color);
@@ -272,9 +276,13 @@ nav a {
 .what .what-item p {
   font-size: 18px;
 }
-.title-pad {
-  padding: 30px 0;
-  font-size: 14px;
+.fun h1,
+.camera h1 {
+  padding-bottom: 30px;
+}
+.fun h1,
+.camera h1 {
+  padding-bottom: 30px;
 }
 .card {
   display: flex;
@@ -298,12 +306,6 @@ nav a {
 }
 .blog-post-content p img {
   width: 100%;
-}
-.blog-post-content:last-child {
-  font-size: 12px;
-}
-.what-content:last-child {
-  font-size: 14px;
 }
 .gatsby-resp-iframe-wrapper {
   margin: 50px 0;
