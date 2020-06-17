@@ -2,11 +2,7 @@
 title: Trip - Zine
 date: 2020-05-24T00:00:00.000Z
 ---
-<div class="title-pad">
-
-A zine that mixes art, photography, travel and weed.
-
-</div>
+###### A zine that mixes art, photography, travel and weed.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/397870522" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
@@ -30,11 +26,7 @@ A zine that mixes art, photography, travel and weed.
 
 </div>
 
-<div class="title-pad">
-
-I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post some design experiment.
-
-</div>
+###### I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post some design experiment.
 
 <div class="img-row">
 
@@ -65,7 +57,5 @@ I also did an [Instagram](https://www.instagram.com/zinetrip/) account to post s
 ![](https://ucarecdn.com/b061f0ec-db12-4926-ba19-018d03c40ad3/)
 
 </div>
-
-
 
 Want one? Mail me: jessyca.jcs@gmail.com
