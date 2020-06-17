@@ -2,13 +2,9 @@
 title: INSTAXMMRS
 date: 2020-05-26T00:00:00.000Z
 ---
-<div class="title-pad">
+###### Instaxmmrs is a project to share my instant photos. On the website you can have the feeling of clicking the pictures, being part of those memories. 
 
-Instaxmmrs is a project to share my instant photos. On the website you can have the feeling of clicking the pictures, being part of those memories. 
-
-Now, have fun: <https://instaxmmrs.com/>
-
-</div>
+###### Now, have fun: <https://instaxmmrs.com/>
 
 <div class="insta">
 
