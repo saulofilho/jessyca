@@ -25,6 +25,10 @@ Director's  cut
 
 <iframe src="https://player.vimeo.com/video/283813789?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-![](https://ucarecdn.com/fdd507ca-e3ec-4557-a2e6-79fc05ee36e8/)
+![](https://ucarecdn.com/e601724e-7aff-4b15-91a3-6a8de62f576e/)
+
+![](https://ucarecdn.com/eac7b8eb-a90b-4bad-b1ae-3a2d0d73c6b9/)
+
+![](https://ucarecdn.com/f13a3186-c41b-49bd-a324-6d51cc3dcf06/)
 
 What I did: Idea, concept, copy and memes
