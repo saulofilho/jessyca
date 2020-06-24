@@ -31,4 +31,4 @@ Director's  cut
 
 ![](https://ucarecdn.com/f13a3186-c41b-49bd-a324-6d51cc3dcf06/)
 
-What I did: Idea, concept, copy and memes
+What I did: Idea, concept and copy
