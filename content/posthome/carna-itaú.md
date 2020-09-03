@@ -22,15 +22,15 @@ We did the ideas to work at Facebook, Instagram, Youtube, Google andbanners.Digi
   </div>
 </div>
 
-<div class="img-row iframe-row">
 
-<iframe src="https://player.vimeo.com/video/423758645?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-<iframe src="https://player.vimeo.com/video/423757464?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/423758645?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="640" height="360" frameborder="0" ></iframe>
 
-<iframe src="https://player.vimeo.com/video/423756433?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/423757464?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="640" height="360" frameborder="0" ></iframe>
 
-</div>
+<iframe src="https://player.vimeo.com/video/423756433?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="640" height="360" frameborder="0" ></iframe>
+
+
 
 ![](https://ucarecdn.com/013eb220-9d46-41d0-8296-374153960d1e/)
 
