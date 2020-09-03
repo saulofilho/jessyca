@@ -33,6 +33,12 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
 
+## Other really cool things:
+
+➭Jury of the São Paulo Creative Club award  - CCSP (2020)
+
+➭Cinema screenwriting short course - Instituto de Cinema (2018)
+
 </div>
 
 </div>
