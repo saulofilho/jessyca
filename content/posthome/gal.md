@@ -7,6 +7,7 @@ date: 2020-02-03
 This project was a new and amazing experience that I have the pleasure to participate. MESA, put together a lot of professionals to help create a new brand: GAL, a beauty salons chain. 
 
 Gal was just an idea of passionate young investors that we helped become a structured brand, with visual identity, concept and storytelling. 
+
   </div>
   <div class="img-idea">
     colocar imagens do painel
@@ -22,11 +23,11 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
  <div class="img-idea">
 
-
 ![](https://ucarecdn.com/8907cdab-3838-4562-81ef-d24164e4f3dd/)
 
 ![](https://ucarecdn.com/4d306861-2b48-4bb4-b5c5-6e22e6694776/)
 
+![](https://ucarecdn.com/2aa9eaa4-1e32-41ea-9885-83b9168e0c3c/)
 
   </div>
 
