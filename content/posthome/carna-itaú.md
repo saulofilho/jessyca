@@ -34,6 +34,4 @@ We did the ideas to work at Facebook, Instagram, Youtube, Google andbanners.Digi
 
 </div>
 
-![](https://ucarecdn.com/013eb220-9d46-41d0-8296-374153960d1e/)
-
 What I did: Idea, concept, copy, script and memes
