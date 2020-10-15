@@ -23,7 +23,9 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ## Experience:
 
-➭Freelance creative copywriter at: F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Tribal DDB.
+➭Right now: Circus.
+
+➭Freelance creative copywriter at: Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Tribal DDB.
 
 ➭Creative copywriter at: DPZ&T, CP+B Brazil and Almap BBDO. 
 
