@@ -1,6 +1,6 @@
 ---
 title: GAL
-date: 2020-02-03
+date: 2020-02-03T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
@@ -10,8 +10,7 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
   </div>
   <div class="img-idea">
-    colocar imagens do painel
-    ate 3 imagens!
+
   </div>
 </div>
 
