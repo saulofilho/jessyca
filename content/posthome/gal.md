@@ -9,9 +9,11 @@ This project was a new and amazing experience that I have the pleasure to partic
 Gal was just an idea of passionate young investors that we helped become a structured brand, with visual identity, concept and storytelling. 
 
   </div>
-  <div class="img-idea">
-
+<div class="img-idea">
+    colocar imagens do painel
+    ate 3 imagens!
   </div>
+</div>
 
   ![](https://ucarecdn.com/4eee62d5-06b3-4ef4-9c40-913e09691edc/)
 
