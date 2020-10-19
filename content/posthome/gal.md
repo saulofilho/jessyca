@@ -11,13 +11,13 @@ Gal was just an idea of passionate young investors that we helped become a struc
   </div>
   <div class="img-idea">
 
+  </div>
+
   ![](https://ucarecdn.com/4eee62d5-06b3-4ef4-9c40-913e09691edc/)
 
 ![](https://ucarecdn.com/9d408385-446e-47c5-bc0e-cb7fd76cfe69/)
 
-![](https://ucarecdn.com/e91c010f-fdbe-4b64-a10c-1ca9e7b4fdde/)
 
-  </div>
 </div>
 
  <div class="grid-idea">
