@@ -30,8 +30,8 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
   </div>
 
-![](https://ucarecdn.com/68427f0a-bbb9-4c25-8d5b-cc234133e532/)
+![](https://ucarecdn.com/4b4f66b6-d1af-4b9e-aa19-19cd02d51a3f/)
 
-![](https://ucarecdn.com/16d1c89c-8b9b-414e-9675-02fd5e46b7ba/)
+
 
 What I did: concept, copy, brand name, voice tone and more.
