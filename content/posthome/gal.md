@@ -17,9 +17,6 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
 ![](https://ucarecdn.com/9d408385-446e-47c5-bc0e-cb7fd76cfe69/)
 
-
-</div>
-
  <div class="grid-idea">
 
 ![](https://ucarecdn.com/f0868d31-b64f-497e-b92f-8e07129cfcf9/)
@@ -31,7 +28,5 @@ Gal was just an idea of passionate young investors that we helped become a struc
   </div>
 
 ![](https://ucarecdn.com/4b4f66b6-d1af-4b9e-aa19-19cd02d51a3f/)
-
-
 
 What I did: concept, copy, brand name, voice tone and more.
