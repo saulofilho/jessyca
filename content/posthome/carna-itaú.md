@@ -26,9 +26,9 @@ We did the ideas to work at Facebook, Instagram, Youtube, Google andbanners.Digi
 
 <div class="iframe-row">
 
-<iframe src="https://player.vimeo.com/video/423758645?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="400px" height="auto" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/423758645?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="100%" height="360" frameborder="0"></iframe>
 
-<iframe src="https://player.vimeo.com/video/423757464?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="400px" height="auto" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/423757464?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen width="100%" height="3560" frameborder="0"></iframe>
 
 
 
