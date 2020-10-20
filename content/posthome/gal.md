@@ -17,9 +17,11 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
 
 
-  ![](https://ucarecdn.com/4eee62d5-06b3-4ef4-9c40-913e09691edc/)
-
 ![](https://ucarecdn.com/9d408385-446e-47c5-bc0e-cb7fd76cfe69/)
+
+![](https://ucarecdn.com/d0592fcf-fe04-4dbd-a193-31c7c83a37a0/)
+
+![](https://ucarecdn.com/b5834d38-73b0-4cea-93c9-2c61469394c6/)
 
  <div class="grid-idea">
 
