@@ -1,6 +1,6 @@
 ---
 title: Olinda de viver
-date: 2020-01-04T00:00:00.000Z
+date: 2020-12-01
 ---
 <div class="post-container">
   <div class="text-idea">
