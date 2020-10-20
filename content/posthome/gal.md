@@ -1,6 +1,6 @@
 ---
 title: GAL
-date: 2020-03-01
+date: 2020-03-01T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
@@ -12,9 +12,9 @@ Gal was just an idea of passionate young investors that we helped become a struc
 <div class="img-idea">
    
 
-![](https://ucarecdn.com/03aad3d3-06bd-4622-aba4-39b5070b3074/)
+![](https://ucarecdn.com/422bdafe-543e-48a5-8deb-4a88476c3423/)
 
-![](https://ucarecdn.com/8c55228b-a1d1-48f4-9e22-f884c12f27a1/)
+![](https://ucarecdn.com/8c4589b0-fa9b-469c-9cfd-c809ce1e766f/)
 
   </div>
 </div>
