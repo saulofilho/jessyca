@@ -1,6 +1,6 @@
 ---
 title: Bartizado
-date: 2020-06-01
+date: 2020-01-06
 ---
 <div class="post-container">
 
