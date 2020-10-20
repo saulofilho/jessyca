@@ -1,6 +1,6 @@
 ---
 title: "#FOMEDEMC"
-date: 2020-01-05T00:00:00.000Z
+date: 2020-01-14
 ---
 <div class="post-container">
   <div class="text-idea">
