@@ -1,6 +1,6 @@
 ---
 title: Aruba
-date: 2020-08-01
+date: 2020-07-01
 ---
 <div class="post-container">
 
