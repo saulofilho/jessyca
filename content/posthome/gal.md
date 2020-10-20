@@ -1,6 +1,6 @@
 ---
 title: GAL
-date: 2020-01-12
+date: 2020-01-04
 ---
 <div class="post-container">
   <div class="text-idea">
