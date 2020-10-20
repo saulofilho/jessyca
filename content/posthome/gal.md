@@ -10,8 +10,11 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
   </div>
 <div class="img-idea">
-    colocar imagens do painel
-    ate 3 imagens!
+   
+
+![](https://ucarecdn.com/8c55228b-a1d1-48f4-9e22-f884c12f27a1/)
+
+
   </div>
 </div>
 
