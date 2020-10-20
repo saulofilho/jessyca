@@ -1,6 +1,6 @@
 ---
 title: FINI
-date: 2020-01-08
+date: 2020-09-01
 ---
 <div class="post-container">
   <div class="text-idea">
