@@ -25,7 +25,7 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ➭Right now: Circus.
 
-➭Freelance creative copywriter at: Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Tribal DDB.
+➭Freelance creative copywriter at: Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Sunset DDB.
 
 ➭Creative copywriter at: DPZ&T, CP+B Brazil and Almap BBDO. 
 
@@ -33,7 +33,7 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ## Clients:
 
-Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
+Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
 
 ## Other really cool things:
 
