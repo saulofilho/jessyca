@@ -1,6 +1,6 @@
 ---
 title: Bartizado
-date: 2020-01-01
+date: 2020-01-01T00:00:00.000Z
 ---
 <div class="post-container">
 
@@ -30,6 +30,12 @@ After all, the best names deserve the best look.
 <iframe src="https://player.vimeo.com/video/347774700?title=0&byline=0&portrait=0" width="640" height="360"  frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/2ea08acd-3e00-40c7-9f0e-e732ffbf6a3a/)
+
+The campaign was a successful case in the use of media on Facebook.
+
+Read in portuguese here: [Facebook Case](https://www.facebook.com/business/success/ypioca)
+
+![](https://ucarecdn.com/6d16a092-ad54-4102-a103-a0aaf8225688/)
 
 ![](https://ucarecdn.com/aaaa815e-010f-492a-8e3d-7feb400471f9/)
 
