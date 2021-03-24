@@ -1,6 +1,6 @@
 ---
 title: Motorola G STYLUS
-date: 2020-03-01
+date: 2020-03-01T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
@@ -9,7 +9,6 @@ date: 2020-03-01
   <div class="img-idea">
 
 ![](https://ucarecdn.com/65f65aaf-033c-48c6-8af0-1048c1550798/)
-
 
 </div>
 
@@ -25,7 +24,7 @@ date: 2020-03-01
 
 ![](https://ucarecdn.com/0bcf4fca-6371-44d1-8559-76baf378387a/)
 
-
+  </div>
 
 <div class="img-row">
 
