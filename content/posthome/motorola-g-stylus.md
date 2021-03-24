@@ -8,15 +8,14 @@ date: 2020-03-01
   </div>
   <div class="img-idea">
 
-
-![]()
-
 ![](https://ucarecdn.com/65f65aaf-033c-48c6-8af0-1048c1550798/)
 
 
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwXZxXdKATg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe src="https://player.vimeo.com/video/516624384?byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwXZxXdKATg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/516624384?byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <div class="img-row">
 
