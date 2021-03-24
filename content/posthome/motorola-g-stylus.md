@@ -2,13 +2,25 @@
 title: Motorola G STYLUS
 date: 2020-03-01
 ---
-xxxxx
+<div class="post-container">
+  <div class="text-idea">
+    colocar texto...
+  </div>
+  <div class="img-idea">
+
+
+![]()
+
+![]()
+
+
+</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YwXZxXdKATg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/516624384?byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-  <div class="img-idea">
+<div class="img-row">
 
 ![](https://ucarecdn.com/506c3085-fbea-4f53-8f81-e4f32e248837/)
 
@@ -16,9 +28,9 @@ xxxxx
 
 ![](https://ucarecdn.com/0bcf4fca-6371-44d1-8559-76baf378387a/)
 
-  </div>
 
-  <div class="img-idea">
+
+<div class="img-row">
 
 ![](https://ucarecdn.com/4ccbc478-abf9-4e79-9370-5b17dab6352d/)
 
