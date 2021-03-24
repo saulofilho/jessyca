@@ -7,9 +7,9 @@ date: 2020-03-01T00:00:00.000Z
     colocar texto...
   </div>
   <div class="img-idea">
-
-![](https://ucarecdn.com/65f65aaf-033c-48c6-8af0-1048c1550798/)
-
+    colocar imagens do painel
+    ate 3 imagens!
+  </div>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YwXZxXdKATg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
