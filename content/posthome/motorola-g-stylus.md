@@ -1,6 +1,6 @@
 ---
 title: Motorola G STYLUS
-date: 2021-03-24T00:00:00.000Z
+date: 2020-03-01
 ---
 xxxxx
 
