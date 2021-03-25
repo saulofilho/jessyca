@@ -9,9 +9,9 @@ date: 2020-03-01T00:00:00.000Z
   <div class="img-idea">
 
 
-![](https://ucarecdn.com/b9ec3fd2-482b-4da1-8cdf-b4bada4bee89/-/crop/768x1074/355,0/-/preview/)
+![](https://ucarecdn.com/d84e013e-a7ee-45f0-8aac-7f52e1c57be0/)
 
-![](https://ucarecdn.com/ef67c088-fd3c-4755-b273-9c2111b1a151/)
+![](https://ucarecdn.com/670b5552-92f7-46bd-92d2-11becab408b3/-/crop/829x1074/219,0/-/preview/)
 
 
   </div>
