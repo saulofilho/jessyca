@@ -23,11 +23,11 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ## Experience:
 
-➭Right now: Circus.
+➭Right now: Monkey-Land
 
 ➭Freelance creative copywriter at: Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Sunset DDB.
 
-➭Creative copywriter at: DPZ&T, CP+B Brazil and Almap BBDO. 
+➭Creative copywriter at: Circus., DPZ&T, CP+B Brazil and Almap BBDO. 
 
 ➭Intern at: Ogilvy New York, Razorfish Berlin , Mullen Lowe Brazil and Publicis Brazil.
 
