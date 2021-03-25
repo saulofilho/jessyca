@@ -8,11 +8,9 @@ date: 2020-03-01T00:00:00.000Z
   </div>
   <div class="img-idea">
 
+![](https://ucarecdn.com/bbdb7703-af87-4ed3-8365-5a9c440da83b/)
 
-![](https://ucarecdn.com/d84e013e-a7ee-45f0-8aac-7f52e1c57be0/)
-
-![](https://ucarecdn.com/670b5552-92f7-46bd-92d2-11becab408b3/-/crop/829x1074/219,0/-/preview/)
-
+![](https://ucarecdn.com/43f73bca-bcbe-4026-9194-613769eca7d7/)
 
   </div>
 </div>
@@ -40,8 +38,6 @@ date: 2020-03-01T00:00:00.000Z
 ![](https://ucarecdn.com/f9becb63-8a90-48f3-940a-b9254d29c699/)
 
   </div>
-
-
 
 Fun fact: my hand was used in the film. Seconds of hand fame, baby.
 
