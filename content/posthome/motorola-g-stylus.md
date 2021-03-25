@@ -7,8 +7,13 @@ date: 2020-03-01T00:00:00.000Z
     colocar texto...
   </div>
   <div class="img-idea">
-    colocar imagens do painel
-    ate 3 imagens!
+
+
+![](https://ucarecdn.com/b9ec3fd2-482b-4da1-8cdf-b4bada4bee89/-/crop/768x1074/355,0/-/preview/)
+
+![](https://ucarecdn.com/ef67c088-fd3c-4755-b273-9c2111b1a151/)
+
+
   </div>
 </div>
 
@@ -20,7 +25,7 @@ date: 2020-03-01T00:00:00.000Z
 
 ![](https://ucarecdn.com/506c3085-fbea-4f53-8f81-e4f32e248837/)
 
-![](https://ucarecdn.com/2f56adef-4bc5-4fc4-891b-6cbed02a2a44/)
+![](https://ucarecdn.com/dacd2782-4ecb-46a0-a6e8-3be952834186/)
 
 ![](https://ucarecdn.com/0bcf4fca-6371-44d1-8559-76baf378387a/)
 
@@ -30,7 +35,7 @@ date: 2020-03-01T00:00:00.000Z
 
 ![](https://ucarecdn.com/4ccbc478-abf9-4e79-9370-5b17dab6352d/)
 
-![](https://ucarecdn.com/07edf7fa-838d-4f22-a540-d8dfde001ad3/)
+![](https://ucarecdn.com/b13d4d36-e652-4af8-af35-e95b23e5eedf/)
 
 ![](https://ucarecdn.com/f9becb63-8a90-48f3-940a-b9254d29c699/)
 
