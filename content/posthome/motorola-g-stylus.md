@@ -4,10 +4,12 @@ date: 2020-03-01T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
-This isn’t just a regular product film, this a product film with real stories.\
-For the launch of Motorola G-stylus, we selected three artists who use their work for a greater good, sending an important message:\
-Alma Negrot, a makeup artist and performer who breaks the barriers of makeup and conservatism.\
-Nina Satie, an illustrator who represents in her art the beauty and power of black women.\
+This isn’t just a regular product film, this a product film with real stories. For the launch of Motorola G-stylus, we selected three artists who use their work for a greater good, sending an important message: 
+
+Alma Negrot, a makeup artist and performer who breaks the barriers of makeup and conservatism. 
+
+Nina Satie, an illustrator who represents in her art the beauty and power of black women.
+
 And Kauê Lentini, a chef who cares about the origin and the whole cycle of the food he makes.
 
 I am happy to be able to put such incredible artists in a global campaign, valuing their work and showing it to the whole world.
