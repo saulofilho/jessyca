@@ -1,27 +1,23 @@
 ---
 title: "#FOMEDEMC"
-date: 2020-05-01
+date: 2020-05-01T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
-This client everyone's know, doesn't need extra explanation.
+This client everyone knows, doesn't need extra explanation.
 
-I had the opportunity to help this campaign with the creation of their new concept and tagline. #FomedeMc means: hungry of Mc Donalds. The inspiration to this concept was my family. Between us, were super common to say that we weren't hungry of any burguer, but hungry of Mc.
+I had the opportunity to help this campaign with the creation of their new concept and tagline. #FomedeMc means: hungry of Mc Donalds. The inspiration for this concept was my family. Between us, were super common to say that we weren't hungry for any burger, but hungry for Mc Donald's burgers.
 
-A popular way to put the brand, again, literally at brazilians mouth.
+A popular way to put the brand, again, literally at Brazilians mouth.
 
 We also wanted to bring “food porn” for the brand, play with the petit appeal.
 
   </div>
   <div class="img-idea">
 
-
-
 ![](https://ucarecdn.com/74fdc7ed-875e-4df2-b03e-b75272349f8a/)
 
 ![](https://ucarecdn.com/a774ce61-ec3a-40a0-9938-4cdb760a8be1/)
-
-
 
   </div>
 </div>
