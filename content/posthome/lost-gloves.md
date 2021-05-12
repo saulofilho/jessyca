@@ -1,12 +1,12 @@
 ---
 title: Lost Gloves
-date: 2019-12-01
+date: 2019-12-01T00:00:00.000Z
 ---
 <div class="post-container">
 
 <div class="text-idea">
 
-This is Lost Gloves. A project that gives a new opportunity to gloves that had been lost on the streets, so they can go back to warming those in need. Was a challenge and also fun to made it. Enjoy.
+This is Lost Gloves. A project that gives a new opportunity to gloves that had been lost on the streets, so they can go back to warm those in need. Was a challenge and also fun to made it. Enjoy.
 
 </div>
 
