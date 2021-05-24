@@ -1,10 +1,10 @@
 ---
 title: ToddyZap
-date: 2020-01-01
+date: 2020-01-01T00:00:00.000Z
 ---
 <div class="post-container">
   <div class="text-idea">
-Toddy is a famous hot cocoa brand, in Brazil, popular among the young ones. To get closer to the target, and also impact the parents, we had an idea involving a popular behaviour in Brazil: the use of cheesy GIFs by the family in Whatsapp.
+Toddy is a famous hot cocoa brand, in Brazil, popular among the young ones. To get closer to the target, and also impact the parents, we had an idea involving a popular behavior in Brazil: the use of cheesy GIFs by the family on Whatsapp.
 
 So, we created exclusive GIFs, to bring more originality to WhatsApp families groups. But it wasn’t any GIF. Each of them had a code to be used as a discount coupon on Rappi, a delivery app.
 

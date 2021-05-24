@@ -19,7 +19,7 @@ The bar owners in Brazil are experts at naming an establishment with style. Ypi√
 
 With that in mind, we created a promotion to choose the 3 most creative bar names in Brazil. Ypi√≥ca's spokesmen selected, voted and picked the 3 winners.
 
-The bar owners won the entire brand product line and a bar makeover, with new logo, menus, tables, chairs and decoration.
+The bar owners won the entire brand product line and a bar makeover, with a new logo, menus, tables, chairs and decoration.
 
 After all, the best names deserve the best look.
 
@@ -34,8 +34,6 @@ After all, the best names deserve the best look.
 The campaign was a successful case in the use of media on Facebook.
 
 Read in portuguese here: [Facebook Case](https://www.facebook.com/business/success/ypioca)
-
-
 
 ![](https://ucarecdn.com/6d16a092-ad54-4102-a103-a0aaf8225688/)
 
