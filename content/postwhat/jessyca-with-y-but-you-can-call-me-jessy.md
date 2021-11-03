@@ -37,7 +37,11 @@ Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk,
 
 ## Other really cool things:
 
-➭Jury of the São Paulo Creative Club award  - CCSP (2020)
+➭Director of the Brazilian Creative Club  -  First board formed only by black professionals since 1975
+
+➭Young Ones 2021 award jury - Portfolio category
+
+➭Brazilian Creative Club award jury (2020/2021)
 
 ➭Cinema screenwriting short course - Instituto de Cinema (2018)
 
