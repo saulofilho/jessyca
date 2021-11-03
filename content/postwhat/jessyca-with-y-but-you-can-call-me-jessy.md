@@ -43,6 +43,8 @@ Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk,
 
 ➭Brazilian Creative Club award jury (2020/2021)
 
+➭Cinema online course - AIC (2021)
+
 ➭Cinema screenwriting short course - Instituto de Cinema (2018)
 
 </div>
