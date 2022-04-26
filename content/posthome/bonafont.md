@@ -15,7 +15,6 @@ date: 2022-04-26
 
 To launch the new Bonafont bottle, without labels and 100% recycled, we created a musical film that shows what life is like for those who care about the future of the world and want to live in a lighter way.  
 
-</div>\
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f3GGAmfC3Yg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
