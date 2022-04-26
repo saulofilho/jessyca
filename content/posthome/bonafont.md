@@ -6,7 +6,7 @@ date: 2022-04-26
 
 ![](https://ucarecdn.com/e3a472d0-763c-429c-a4fc-a222e3cc098b/)
 
-![](https://media1.giphy.com/media/Yxld9vTzJUhLDNZdD6/giphy.gif)
+![](https://ucarecdn.com/7334862a-a8c5-427b-b0dd-c882276a96d6/-/crop/845x843/73,73/-/preview/)
 
 
 
