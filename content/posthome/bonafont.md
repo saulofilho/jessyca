@@ -52,3 +52,5 @@ To compete, you just needed to use our Instagram filter in the most creative way
 ![](https://media4.giphy.com/media/FfOn6oepw06xBVUjHJ/giphy.gif?cid=790b7611421a61057875772c445432d647b5d89a542f1e82&rid=giphy.gif&ct=g)
 
 </div>
+
+What I did: Idea, concept, script, music lyric and copy
