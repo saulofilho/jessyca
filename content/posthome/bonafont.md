@@ -25,8 +25,7 @@ To launch the new Bonafont bottle, without labels and 100% recycled, we created 
 
 
 
-In addition, we took advantage of the biggest creativity festival in Brazil and created a new award, the "Leve Estrela". A 100% recycled award, made with the bottles used during the festival.
-
+In addition, we took advantage of the biggest creativity festival in Brazil and created a new award, the "Leve Estrela". A 100% recycled award, made with the bottles used during the festival. \
 To compete, you just needed to use our Instagram filter in the most creative way possible. The best was chosen by a jury of professionals in the advertising market.
 
 \
