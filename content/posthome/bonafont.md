@@ -17,7 +17,15 @@ Bonafont was the main sponsor of the 2021 edition of the festival of the creativ
 
 <iframe src="https://player.vimeo.com/video/612871872?h=588a01551b&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+
+
+<div class="img-row">
+
+<iframe src="https://player.vimeo.com/video/613121361?h=ae8d6f6837&title=0&byline=0&portrait=0" width="640" height="640" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 ![](https://ucarecdn.com/df31f6ce-ffa0-41a0-a26d-c43b9a196c4f/)
+
+</div>
 
 <div class="img-row">
 
@@ -26,5 +34,15 @@ Bonafont was the main sponsor of the 2021 edition of the festival of the creativ
 ![](https://ucarecdn.com/a3ca0731-620a-4b2f-8a0f-b9470c6b7006/)
 
 ![](https://ucarecdn.com/14682103-b1ff-4784-886a-ca62bfb20ce5/)
+
+</div>
+
+<div class="img-row">
+
+![](https://ucarecdn.com/1a7a4fd0-dcab-4237-a209-dbf6be196811/)
+
+![](https://ucarecdn.com/a241f186-aca6-4f0f-8ccd-af455fc22b25/)
+
+![](https://ucarecdn.com/ce95851c-990d-4acd-b44d-1f55d9f1d79d/)
 
 </div>
