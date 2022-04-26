@@ -4,7 +4,7 @@ date: 2022-04-26
 ---
 <div class="post-container">
 
-![](https://ucarecdn.com/e3a472d0-763c-429c-a4fc-a222e3cc098b/)
+![](https://ucarecdn.com/e3a472d0-763c-429c-a4fc-a222e3cc098b/-/crop/1376x907/28,194/-/preview/)
 
 ![](https://ucarecdn.com/7334862a-a8c5-427b-b0dd-c882276a96d6/-/crop/845x843/73,73/-/preview/)
 
@@ -25,10 +25,9 @@ To launch the new Bonafont bottle, without labels and 100% recycled, we created 
 
 
 
-In addition, we took advantage of the biggest creativity festival in Brazil and created a new award, the "Leve Estrela".  A 100% recycled award, made with the bottles used during the festival. \
+In addition, we took advantage of the biggest creativity festival in Brazil and created a new award, the "Leve Estrela".   A 100% recycled award, made with the bottles used during the festival. \
 To compete, you just needed to use our Instagram filter in the most creative way possible. The best was chosen by a jury of professionals in the advertising market.
 
-\
 <iframe src="https://player.vimeo.com/video/612871872?h=588a01551b&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/df31f6ce-ffa0-41a0-a26d-c43b9a196c4f/)
