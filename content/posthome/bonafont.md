@@ -44,14 +44,12 @@ To compete, you just needed to use our Instagram filter in the most creative way
 
 </div>
 
+<div class="img-row">
+
 ![](https://media2.giphy.com/media/40782EAlQsOHtTIz7o/giphy.gif?cid=790b761157ca7d3b9d898e0d64a9e73f27985ee65d094784&rid=giphy.gif&ct=g)
 
 ![](https://media0.giphy.com/media/GbI0g9XuxhLQyQtQ6M/giphy.gif?cid=790b7611b2de7d38a4804cd9a5d692be09dc67f9e632c4b4&rid=giphy.gif&ct=g)
 
 ![](https://media4.giphy.com/media/FfOn6oepw06xBVUjHJ/giphy.gif?cid=790b7611421a61057875772c445432d647b5d89a542f1e82&rid=giphy.gif&ct=g)
-
-![]()
-
-<div class="img-row">
 
 </div>
