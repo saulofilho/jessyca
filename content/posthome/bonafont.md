@@ -4,6 +4,8 @@ date: 2022-04-26
 ---
 <div class="post-container">
 
+![](https://ucarecdn.com/c2671fc2-f537-48d9-8522-6246b9637044/-/crop/467x856/0,50/-/preview/)
+
   <div class="img-idea">
 
   </div>
@@ -30,11 +32,5 @@ Bonafont was the main sponsor of the 2021 edition of the festival of the creativ
 </div>
 
 <div class="img-row">
-
-
-
-
-
-
 
 </div>
