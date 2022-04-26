@@ -2,13 +2,12 @@
 title: Bonafont - New Bottle
 date: 2022-04-26
 ---
-<div class="post-container">
+<div class="post-container">\
+<div class="img-idea">
 
-  <div class="img-idea">
+![](https://ucarecdn.com/ef6f0e0c-e45d-44ce-a3b3-1b649dc3e555/)
 
 ![](https://ucarecdn.com/e3a472d0-763c-429c-a4fc-a222e3cc098b/-/crop/1376x907/28,194/-/preview/)
-
-![](https://ucarecdn.com/7334862a-a8c5-427b-b0dd-c882276a96d6/-/crop/845x843/73,73/-/preview/)
 
   </div>
   <div class="text-idea">
