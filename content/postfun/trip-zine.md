@@ -4,6 +4,8 @@ date: 2020-05-24T00:00:00.000Z
 ---
 ###### A zine that mixes art, photography, travel and weed.
 
+Trip website: [zinetrip.site](https://zinetrip.site/)[](https://www.instagram.com/zinetrip/)
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/397870522" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/3f4f26e8-6444-4b17-9b0f-43f07c428927/)
