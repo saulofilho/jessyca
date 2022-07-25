@@ -76,7 +76,7 @@ const HeaderMenu = () => {
             data-aos-duration="1000"
             data-aos-easing="ease-in-out"
           >
-            <Link to="/">What I do for money</Link>
+            <a href="/">What I do for money</a>
             <Link to="/whatcamera">What I do with a camera</Link>
             <Link to="/whatfun">What I do for fun</Link>
             <Link to="/what">What?</Link>
