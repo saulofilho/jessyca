@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from 'gatsby'
+import { withPrefix, StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import HeaderMenu from "./HeaderMenu"
 import ChatBot from "./ChatBot"
@@ -34,7 +34,7 @@ export default ({ children, meta, title, location }) => {
               {title}
               <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
               <link rel="dns-prefetch" href="https://ucarecdn.com" />
-              {/* Add font link tags here */}
+              <script async defer src={withPrefix('script.js')} type="text/javascript" />
             </Helmet>
 
             <Meta

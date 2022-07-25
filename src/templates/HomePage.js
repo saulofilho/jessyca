@@ -23,8 +23,53 @@ export const HomePageTemplate = ({
 
         return (
           <>
-            <div 
-              className="canvas-sketch"
+            <div className="canvas-wrapper display-none-mobile">
+              <div className="canvas">
+                <canvas id="move-glitch"></canvas>
+                <div
+                  className="primary-content container"
+                >
+                  <section className="title-hero">
+                    <p>c r e a t i v e</p>
+                    <p>Jessyca Silva</p>
+                  </section>
+                  <p
+                    data-aos="fade-up"
+                    data-aos-offset="200"
+                    data-aos-delay="50"
+                    data-aos-duration="1000"
+                    data-aos-easing="ease-in-out"
+                  >
+                    ☻ Oh, hi. It’s you. ☻
+                    <br />
+                    Welcome to the incredible
+                    <br />
+                    world of my crazy mind.
+                    <br />
+                    <br />
+                    Here you will see some really cool stuff
+                    <br />
+                    that I made through the years.
+                    <br />
+                    <br />
+                    So, take a seat.
+                    <br />
+                    Let me grab a drink for you,
+                    <br />
+                    and of course: feel at home.
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <span>
+                      [Just don't put your shoes at the sofa, please]
+                    </span>
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              className="canvas-sketch display-none-desktop"
               style={{backgroundImage: `url(${image})`}}
             >
               <div
