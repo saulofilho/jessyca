@@ -16,7 +16,7 @@ let currentY = null;
 
 let i = 0;
 
-const images = ['https://i.imgur.com/DPqpXFG.png', 'https://github.com/saulofilho/jessyca/blob/master/static/images/icon.png?raw=true'].map(source => {
+const images = ['https://raw.githubusercontent.com/saulofilho/jessyca/master/static/images/cabecinha.png'].map(source => {
   const image = document.createElement('img');
   image.src = source;
   return image;
@@ -43,7 +43,7 @@ canvasTag.addEventListener('click', function() {
 const draw = () => {
   if (currentX) {
     if (images[i].complete) {
-      context.drawImage(images[i], currentX - 1, currentY - 1, 70, 70);
+      context.drawImage(images[i], currentX - 1, currentY - 1, 200, 200);
     }
 
     currentX = currentX + (aimX - currentX) * 0.1;
