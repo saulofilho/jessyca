@@ -24,6 +24,8 @@ To launch the new Bonafont bottle, without labels and 100% recycled, we created 
 In addition, we took advantage of the biggest creativity festival in Brazil and created a new award, the "Leve Estrela".   A 100% recycled award, made with the bottles used during the festival. \
 To compete, you just needed to use our Instagram filter in the most creative way possible. The best was chosen by a jury of professionals in the advertising market.
 
+![](https://ucarecdn.com/95b44a04-5c53-4906-942b-2df93dd697bb/)
+
 <iframe src="https://player.vimeo.com/video/612871872?h=588a01551b&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/df31f6ce-ffa0-41a0-a26d-c43b9a196c4f/)
@@ -45,6 +47,16 @@ To compete, you just needed to use our Instagram filter in the most creative way
 ![](https://media0.giphy.com/media/GbI0g9XuxhLQyQtQ6M/giphy.gif?cid=790b7611b2de7d38a4804cd9a5d692be09dc67f9e632c4b4&rid=giphy.gif&ct=g)
 
 ![](https://media4.giphy.com/media/FfOn6oepw06xBVUjHJ/giphy.gif?cid=790b7611421a61057875772c445432d647b5d89a542f1e82&rid=giphy.gif&ct=g)
+
+</div>
+
+
+
+<div class="img-row">
+
+![](https://ucarecdn.com/2b1cb176-e78c-48c5-8db7-dc9e1ea46d92/)
+
+![](https://ucarecdn.com/30b0f067-c3ed-4d16-b29d-0d8f6b53d2dd/)
 
 </div>
 
