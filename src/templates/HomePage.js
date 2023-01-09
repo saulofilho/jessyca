@@ -188,7 +188,7 @@ export const pageQuery = graphql`
     }
     posthomePost: allMarkdownRemark(
       filter: { fields: { contentType: { eq: "posthome" } } }
-      sort: { order: ASC, fields: [frontmatter___date] }
+      sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
         node {
