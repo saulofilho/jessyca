@@ -66,7 +66,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   const { createNodeField } = actions
 
   // convert frontmatter images
-  fmImagesToRelative(node)
+  // fmImagesToRelative(node)
 
   // Create smart slugs
   // https://github.com/Vagr9K/gatsby-advanced-starter/blob/master/gatsby-node.js
