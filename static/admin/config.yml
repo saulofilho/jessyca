@@ -1,9 +1,9 @@
-# See https://github.com/netlify/netlify-cms/blob/master/example/config.yml
+locale: 'pt'
+
 backend:
   name: git-gateway
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master
 
-# display_url: https://gatsbro.netlify.com # This url will display in the top-right of the CMS
 media_library:
   name: uploadcare
   config:
@@ -15,12 +15,12 @@ media_library:
     previewStep: true
     clearable: true
 
-collections: # A list of collections the CMS should be able to edit
+collections:
   - name: 'pages'
     label: 'Pages'
     delete: false # Prevent users from deleting documents in this collection
     editor:
-      preview: true
+      preview: false
     files:
       - file: 'content/pages/home.md'
         label: 'Home Page'
@@ -78,47 +78,48 @@ collections: # A list of collections the CMS should be able to edit
   - name: posthome
     label: Home Posts
     editor:
-      preview: true
+      preview: false
     folder: content/posthome
     slug: '{{slug}}'
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+    create: true
+    fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
-      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Date / Order, name: date, widget: datetime, dateFormat: "DD.MM.YYYY" }
+      # - { name: order, label: Order, widget: number, value_type: "int" }
 
   - name: postcam
     label: What Camera Posts
     editor:
-      preview: true
+      preview: false
     folder: content/postcam
     slug: '{{slug}}'
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+    create: true
+    fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
-      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Date / Order, name: date, widget: datetime, dateFormat: "DD.MM.YYYY" }
 
   - name: postfun
     label: What Fun Posts
     editor:
-      preview: true
+      preview: false
     folder: content/postfun
     slug: '{{slug}}'
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+    create: true
+    fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
-      - { label: Date / Order, name: date, widget: date, format: 'YYYY-MM-DD' }
+      - { label: Date / Order, name: date, widget: datetime, dateFormat: "DD.MM.YYYY" }
 
   - name: postwhat
     label: What About
     editor:
-      preview: true
+      preview: false
     folder: content/postwhat
     slug: '{{slug}}'
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+    create: true
+    fields:
       - { name: title, label: Title, widget: string }
       - { name: body, label: Body, widget: markdown }
 
