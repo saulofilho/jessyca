@@ -9,8 +9,7 @@ title: Hey, It's me ☺
 
 ## Contact me:
 
-jessyca.jcs@gmail.com
-
+jessyca.jcs@gmail.com\
 [L﻿inkedin](https://www.linkedin.com/in/jessycasilva/)
 
 </div>
