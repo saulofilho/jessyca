@@ -9,9 +9,9 @@ title: Hey, It's me ☺
 
 ## Contact me:
 
-+55 (11) 995862872
-
 jessyca.jcs@gmail.com
+
+[L﻿inkedin](https://www.linkedin.com/in/jessycasilva/)
 
 </div>
 
