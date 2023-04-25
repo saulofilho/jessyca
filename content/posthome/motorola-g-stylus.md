@@ -13,6 +13,7 @@ Nina Satie, an illustrator who represents in her art the beauty and power of bla
 And Kauê Lentini, a chef who cares about the origin and the whole cycle of the food he makes.
 
 I am happy to be able to put such incredible artists in a global campaign, valuing their work and showing it to the whole world.
+
   </div>
   <div class="img-idea">
 
@@ -23,7 +24,7 @@ I am happy to be able to put such incredible artists in a global campaign, valui
   </div>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwXZxXdKATg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/504770458?h=5d7585046d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>script src="https://player.vimeo.com/api/player.js"></script> <p><a href="https://vimeo.com/504770458">Motorola - G-Stylus</a> from <a href="https://vimeo.com/jessycasilva">jessyca silva</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <iframe src="https://player.vimeo.com/video/516624384?byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
