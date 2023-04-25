@@ -24,7 +24,7 @@ I am happy to be able to put such incredible artists in a global campaign, valui
   </div>
 </div>
 
-<iframe src="https://player.vimeo.com/video/504770458?h=5d7585046d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/504770458?h=5d7585046d&title=0&byline=0&portrait=0" width="640" height="362" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <iframe src="https://player.vimeo.com/video/516624384?byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
