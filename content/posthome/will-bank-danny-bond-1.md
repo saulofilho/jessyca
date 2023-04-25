@@ -20,7 +20,8 @@ IN PROGRESS
 
 C﻿ase:
 
-<iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Will Bank feat. Danny Bond - case"></iframe>
+<iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/738278696">Will Bank feat. Danny Bond - case</a> from <a href="https://vimeo.com/jessycasilva">jessyca silva</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 V﻿ideo Clip:
 
