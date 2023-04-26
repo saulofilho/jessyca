@@ -18,21 +18,15 @@ IN PROGRESS
 
 </div>
 
-C﻿ase:
 
-<﻿p>xxx1</p>
-
-<iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0"  frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-<﻿p>xxx2</p>
+C﻿ase:
+
+<iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0"  frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Music video:
 
-</div>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVfQGssSKTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-</div>
 
 What I did: Idea, concept, script, music lyric and copy
