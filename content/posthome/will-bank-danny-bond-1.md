@@ -18,16 +18,10 @@ IN PROGRESS
 
 </div>
 
-  <div class="text-idea">
-
 C﻿ase:
-
-</div>
 
 <iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-  <div class="text-idea">
 
 Music video:
 
