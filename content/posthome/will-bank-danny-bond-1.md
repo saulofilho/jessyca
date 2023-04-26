@@ -20,7 +20,7 @@ IN PROGRESS
 
 C﻿ase:
 
-<iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0"  frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 Music video:
