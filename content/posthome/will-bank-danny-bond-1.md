@@ -56,13 +56,13 @@ Music video:
 
 ![](https://ucarecdn.com/97072090-a7ef-4df2-abc7-671452db8e2b/)
 
-<div class="iframe-row">
+<div class="img-row">
 
-<iframe src="https://giphy.com/embed/coNakqfVbpf4DQHqQg" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coNakqfVbpf4DQHqQg">via GIPHY</a></p>
+![](https://ucarecdn.com/0e9035d8-7fbe-400e-9f09-806820846999/)
 
-<iframe src="https://giphy.com/embed/rSK1sl3oNV481lBTnN" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rSK1sl3oNV481lBTnN">via GIPHY</a></p>
+![](https://ucarecdn.com/17b4b98a-31da-4f5f-8e8b-0952c8c0e03c/)
 
-<iframe src="https://giphy.com/embed/5AeRi6XW4smTUzt7KK" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/5AeRi6XW4smTUzt7KK">via GIPHY</a></p>
+![](https://ucarecdn.com/bd75ecae-b4f4-4088-8f98-14b8391b718a/)
 
 </div>
 
