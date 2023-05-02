@@ -16,7 +16,7 @@ And the most important thing about this campaign is that Danny was the first bla
 
 <div class="img-idea">
 
-![](https://ucarecdn.com/e6ebcdb7-c06f-4445-926b-8bce12ac317c/)
+![](https://ucarecdn.com/45ff0fb6-d53d-42c8-9eaf-c3e10f6f3ff6/)
 
 ![](https://ucarecdn.com/577e0d08-8c60-4fac-8d20-ce0c00d8a87d/)
 
