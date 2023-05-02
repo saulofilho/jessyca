@@ -18,7 +18,6 @@ IN PROGRESS
 
 </div>
 
-
 </div>
 
 C﻿ase:
@@ -28,5 +27,11 @@ C﻿ase:
 Music video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVfQGssSKTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![](https://ucarecdn.com/6d294e76-ee80-4bd2-a8ad-b24e5c6dce62/)
+
+![]()
+
+
 
 What I did: Idea, concept, script, music lyric and copy
