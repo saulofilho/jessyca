@@ -6,7 +6,11 @@ date: 2023-04-25T17:33:55.358Z
 
 <div class="text-idea">
 
-IN PROGRESS
+Will is a digital bank that is starting in Brazil. Its first campaign had Brazilian funk as music, making the brand adhere to a fun and popular language. To continue in the musical field, we invited a trans rapper, Danny Bond, who was very successful in Brazil with a remix of her music with Doja Cat. 
+
+Danny Bond, created a song talking about how the Will Bank Card gives her independence to be able to have fun and do whatever she wants, totally p*ssy power lyrics. We created a clip for the song made exclusively for social media, showing what the bank's digital world would be like. The clip was so successful that the song ended up on Spotify.
+
+And the most important thing about this campaign is that Danny was the first black trans woman in brazil to be the face of a bank.
 
 </div>
 
@@ -14,7 +18,7 @@ IN PROGRESS
 
 ![](https://ucarecdn.com/e6ebcdb7-c06f-4445-926b-8bce12ac317c/)
 
-![](https://ucarecdn.com/675fd2c0-a69c-4fe0-99a0-24a2503cc448/-/crop/431x776/5,3/-/preview/)
+![](https://ucarecdn.com/577e0d08-8c60-4fac-8d20-ce0c00d8a87d/)
 
 </div>
 
