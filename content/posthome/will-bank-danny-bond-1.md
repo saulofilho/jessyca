@@ -24,13 +24,8 @@ Danny Bond, created a song talking about how the Will Bank Card gives her indepe
 
 And the most important thing about this campaign is that Danny was the first black trans woman in brazil to be the face of a bank.
 
-
-
-C﻿ase:
-
 <iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0"  frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Music video:\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IVfQGssSKTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/6d294e76-ee80-4bd2-a8ad-b24e5c6dce62/)
