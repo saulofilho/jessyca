@@ -24,15 +24,15 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ➭Right now: VLMY&R
 
-➭Freelance creative copywriter at: Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Sunset DDB.
+➭Freelance creative copywriter at: &Walsh, Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Sunset DDB 
 
-➭Creative copywriter at: Monkey-Land,Circus., DPZ&T, CP+B Brazil and Almap BBDO.  
+➭Creative copywriter at: Monkey-Land, Circus., DPZ&T, CP+B Brazil and Almap BBDO.  
 
-➭Intern at: Ogilvy New York, Razorfish Berlin , Mullen Lowe Brazil and Publicis Brazil.
+➭Intern at: Ogilvy New York, Razorfish Berlin, Mullen Lowe Brazil and Publicis Brazil.
 
 ## Clients:
 
-Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
+Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway, Colgate, Greenpeace, and more.
 
 ## Awards:
 
