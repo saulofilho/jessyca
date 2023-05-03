@@ -38,9 +38,15 @@ Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk,
 
 ➭Brazil Creative Club
 
-2022: W﻿ill Bank feat. Danny Bond - Gold (Branded Content) and Bronze (Tv and other screens) 
+2022: 
 
-2﻿021: G﻿ood Morning Veronica -Yearbook (Branded Content)  
+W﻿ill Bank feat. Danny Bond - Gold (Branded Content) and Bronze (Tv and other screens)
+
+"Segue os profes"- Shortlist (Art direction craft) 
+
+2﻿021: 
+
+G﻿ood Morning Veronica -Yearbook (Branded Content)  
 
 ➭ Effie Awards
 
