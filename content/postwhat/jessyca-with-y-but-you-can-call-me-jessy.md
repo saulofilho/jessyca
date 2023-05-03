@@ -7,7 +7,7 @@ title: Hey, It's me ☺
 
 ![](https://ucarecdn.com/ffde0103-6eef-4ebe-b9d9-fc8fc0e21090/)
 
-## Contact me:
+## ༼つ ◕_◕ ༽つ Contact me:
 
 jessyca.jcs@gmail.com\
 [L﻿inkedin](https://www.linkedin.com/in/jessycasilva/)
@@ -20,9 +20,9 @@ Jessyca with Y, but you can call me Jessy.
 
 Brazilian creative copywriter who doesn't know talk about herself, but can talk for hours about her dog.
 
-## Experience:
+## ʕっ•ᴥ•ʔっExperience:
 
-➭Right now: VLMY&R
+✎Right now: VLMY&R
 
 ➭Freelance creative copywriter at: &Walsh, Suno, Wunderman Thompson, F.biz, VIRTUE, Cheil, MESA, 99app, FlagCx and Sunset DDB 
 
@@ -30,29 +30,31 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 ➭Intern at: Ogilvy New York, Razorfish Berlin, Mullen Lowe Brazil and Publicis Brazil.
 
-## Clients:
+## ƪ(♥ﻬ♥)ʃ  Clients:
 
 Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway, Colgate, Greenpeace, and more.
 
-## Awards:
+## ヽ(•‿•)ノAwards:
 
-➭Brazil Creative Club
+★Brazil Creative Club
 
-2022: 
+➭2022: 
 
 W﻿ill Bank feat. Danny Bond - Gold (Branded Content) and Bronze (Tv and other screens)
 
 "Segue os profes"- Shortlist (Art direction craft) 
 
-2﻿021: 
+➭2﻿021: 
 
 G﻿ood Morning Veronica -Yearbook (Branded Content)  
 
-➭ Effie Awards
+★Effie Awards
 
-2﻿021: G﻿ood Morning Veronica -Gold (Media & Entertainment)   
+➭2﻿021: 
 
-## Other really cool things:
+G﻿ood Morning Veronica -Gold (Media & Entertainment)   
+
+## ( ͡~ ͜ʖ ͡° ) Other really cool things:
 
 ➭Creator and one's of the directors of the first black creatives group to lead the Brazilian Creative Club, since 1975.
 
