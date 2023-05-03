@@ -34,13 +34,27 @@ Brazilian creative copywriter who doesn't know talk about herself, but can talk 
 
 Whirpool, Spotify, Netflix, Diageo, McDonalds, Itaú Unibank, Unilever, Sunsilk, Samsung, Facebook Business,  Pepsico, Natura, L'occitane Au Brésil, Bauducco, Audi, Nestlé, Subway and more.
 
+## Awards:
+
+➭Brazil Creative Club
+
+2022: W﻿ill Bank feat. Danny Bond - Gold (Branded Content) and Bronze (Tv and other screens) 
+
+2﻿021: G﻿ood Morning Veronica -Yearbook (Branded Content)  
+
+➭ Effie Awards
+
+2﻿021: G﻿ood Morning Veronica -Gold (Media & Entertainment)   
+
 ## Other really cool things:
 
-➭Director of the Brazilian Creative Club  -  First board formed only by black professionals since 1975
+➭Creator and one's of the directors of the first black creatives group to lead the Brazilian Creative Club, since 1975.
 
-➭Young Ones 2021 award jury - Portfolio category
+➭Young Ones Award jury (2021/2022)
 
-➭Brazilian Creative Club award jury (2020/2021)
+➭Brazilian Creative Club Award jury (2020/2021/2022)
+
+➭Design online course - EBAC (2022/2023)
 
 ➭Cinema online course - AIC (2021)
 
