@@ -26,3 +26,7 @@ The prints were made thinking about the final objective, which was the feeling o
 <iframe src="https://player.vimeo.com/video/827657802?h=89091f8881" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/0f6d172f-8102-4782-ac56-cbca62ac4394/)
+
+![](https://ucarecdn.com/0162d19e-3184-4877-b1f1-68c01ddb5655/)
+
+W﻿hat I did: Idea, concept and copy
