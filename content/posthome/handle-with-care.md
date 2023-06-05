@@ -4,11 +4,11 @@ date: 2023-06-05T15:56:31.931Z
 ---
 <div class="post-container">
 
+![](https://ucarecdn.com/3e62430c-53fb-4f8a-9c35-e6ae87a4562d/)
 
+![](https://ucarecdn.com/475a0017-2f15-47ed-9d8a-3e8c631bab1b/)
 
   <div class="img-idea">
-
-
 
   </div>
 
@@ -24,7 +24,5 @@ The prints were made thinking about the final objective, which was the feeling o
 </div>
 
 <iframe src="https://player.vimeo.com/video/827657802?h=89091f8881" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ![](https://ucarecdn.com/0f6d172f-8102-4782-ac56-cbca62ac4394/)
