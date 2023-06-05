@@ -4,11 +4,11 @@ date: 2023-06-05T15:56:31.931Z
 ---
 <div class="post-container">
 
+  <div class="img-idea">
+
 ![](https://ucarecdn.com/3e62430c-53fb-4f8a-9c35-e6ae87a4562d/)
 
 ![](https://ucarecdn.com/475a0017-2f15-47ed-9d8a-3e8c631bab1b/)
-
-  <div class="img-idea">
 
   </div>
 
