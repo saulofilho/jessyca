@@ -23,7 +23,7 @@ The prints were made thinking about the final objective, which was the feeling o
   </div>
 </div>
 
-<iframe src="https://player.vimeo.com/video/827657802?h=89091f8881" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/827657802?h=89091f8881&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://ucarecdn.com/0f6d172f-8102-4782-ac56-cbca62ac4394/)
 
