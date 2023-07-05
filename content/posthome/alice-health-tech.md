@@ -20,4 +20,3 @@ Alice is a health tech that works with disease prevention, taking care of the he
 </div>
 
 <iframe src="https://player.vimeo.com/video/703418940?h=9a951345af&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/703418940">Alice - Einstein</a> from <a href="https://vimeo.com/jessycasilva">jessyca silva</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
