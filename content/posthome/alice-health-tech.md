@@ -20,3 +20,13 @@ Alice is a health tech that works with disease prevention, taking care of the he
 </div>
 
 <iframe src="https://player.vimeo.com/video/703418940?h=9a951345af&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<div class="img-row">
+
+![](https://ucarecdn.com/8ef5503c-afb5-4801-94ba-b019628d40b1/)
+
+![](https://ucarecdn.com/0a02473d-962f-45d6-ad73-56e509bcc987/)
+
+![](https://ucarecdn.com/4625ee2b-f53a-451c-9c25-93883455f92c/)
+
+</div>
