@@ -29,6 +29,6 @@ The prints were made thinking about the final objective, which was the feeling o
 
 ![](https://ucarecdn.com/0162d19e-3184-4877-b1f1-68c01ddb5655/)
 
-![](https://ucarecdn.com/b58444cd-eaf6-4856-bafa-06bef621dcbe/)
+![]()
 
 W﻿hat I did: Idea, concept and copy
