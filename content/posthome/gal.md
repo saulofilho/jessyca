@@ -29,7 +29,7 @@ Gal was just an idea of passionate young investors that we helped become a struc
 
 ![](https://ucarecdn.com/f0868d31-b64f-497e-b92f-8e07129cfcf9/)
 
-![](https://ucarecdn.com/4d306861-2b48-4bb4-b5c5-6e22e6694776/)
+![]()
 
 ![](https://ucarecdn.com/1bc416ae-da64-480b-a3ae-c6ccac694d30/)
 
