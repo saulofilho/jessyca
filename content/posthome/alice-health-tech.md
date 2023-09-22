@@ -25,8 +25,12 @@ Alice is a health tech that works with disease prevention, taking care of the he
 
 <div class="img-row">
 
+![](https://ucarecdn.com/cfc871be-b3cd-4c7a-a911-adc2bfa7f9c1/)
+
+![](https://ucarecdn.com/0c385806-d81d-4e91-b156-13bdc8f8cdc5/)
+
+![](https://ucarecdn.com/222fe995-0cb8-45ce-aaad-c27a217f2740/)
+
 </div>
 
-<div class="img-row">
-
-</div>
+W﻿hat I did: Idea, script and tagline
