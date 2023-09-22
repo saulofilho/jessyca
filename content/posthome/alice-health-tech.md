@@ -6,9 +6,9 @@ date: 2023-04-24T17:33:00.000Z
 
   <div class="img-idea">
 
-![](https://ucarecdn.com/af3080c1-aeed-456b-ba03-d25ad40e0ea7/)
+![](https://ucarecdn.com/e78929a7-9bc1-4d09-a4e7-a1be882a3e1f/)
 
-![](https://ucarecdn.com/5e537b0b-1961-45ca-adf6-8796fbf48779/)
+![](https://ucarecdn.com/d3358adb-0d7a-4435-a7ed-3e90015babc5/)
 
 </div>
 
