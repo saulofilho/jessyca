@@ -6,7 +6,7 @@ date: 2023-04-24T17:33:00.000Z
 
   <div class="img-idea">
 
-![](https://ucarecdn.com/e78929a7-9bc1-4d09-a4e7-a1be882a3e1f/)
+![](https://ucarecdn.com/2ad34e85-d9f7-4f64-b05d-3010a260c649/)
 
 ![](https://ucarecdn.com/d3358adb-0d7a-4435-a7ed-3e90015babc5/)
 
