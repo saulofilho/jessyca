@@ -6,9 +6,9 @@ date: 2023-04-24T17:33:00.000Z
 
   <div class="img-idea">
 
-![](https://ucarecdn.com/2ad34e85-d9f7-4f64-b05d-3010a260c649/)
+![](https://ucarecdn.com/0d66b9b7-b92d-4711-8f54-4c429ebc7bfa/)
 
-![](https://ucarecdn.com/d3358adb-0d7a-4435-a7ed-3e90015babc5/)
+![](https://ucarecdn.com/1bbd755f-5c2a-4c7d-8182-bbab3e6bf5c2/)
 
 </div>
 
@@ -21,15 +21,15 @@ Alice is a health tech that works with disease prevention, taking care of the he
 
 <iframe src="https://player.vimeo.com/video/703418940?h=9a951345af&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-![](https://ucarecdn.com/524f7147-9678-4d5d-a6ee-9cc256de780b/)
+![](https://ucarecdn.com/11d7a9dd-4b2e-4efb-9a1f-21e9e9e19996/)
 
 <div class="img-row">
 
-![](https://ucarecdn.com/cfc871be-b3cd-4c7a-a911-adc2bfa7f9c1/)
+![](https://ucarecdn.com/010e94f4-28dc-4b94-9bd5-0b0e16ac10f7/)
 
-![](https://ucarecdn.com/0c385806-d81d-4e91-b156-13bdc8f8cdc5/)
+![](https://ucarecdn.com/fc5ddbcf-785c-404e-8a21-c4214a7de4bc/)
 
-![](https://ucarecdn.com/222fe995-0cb8-45ce-aaad-c27a217f2740/)
+![](https://ucarecdn.com/2ad35d1b-e513-4810-8154-07f2fb422e67/)
 
 </div>
 
