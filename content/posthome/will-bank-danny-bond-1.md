@@ -1,12 +1,12 @@
 ---
-title: Will Bank - Danny Bond
+title: Will Bank Feat. Danny Bond
 date: 2023-04-25T17:33:55.358Z
 ---
 <div class="post-container">
 
 <div class="text-idea">
 
-Will is a digital bank that is starting in Brazil. Its first campaign had Brazilian funk as music, making the brand adhere to a fun and popular language. To continue in the musical field, we invited a trans rapper, Danny Bond, who was very successful in Brazil with a remix of her music with Doja Cat. 
+Will Bank is a Brazilian fintech and the first bank in Brazil to use a trans Woman as the face of their brand. Yeah, we did it.
 
 </div>
 
@@ -20,9 +20,13 @@ Will is a digital bank that is starting in Brazil. Its first campaign had Brazil
 
 </div>
 
-Danny Bond, created a song talking about how the Will Bank Card gives her independence to be able to have fun and do whatever she wants, totally p*ssy power lyrics. We created a clip for the song made exclusively for social media, showing what the bank's digital world would be like. The clip was so successful that the song ended up on Spotify.
+We came up with the idea to make a song with Danny Bond, a popular singer and rapper trans woman from the northeast region of Brazil. The song emphasized how the Will Bank Card provides her the freedom to have fun and pursue her desires, totally p*ssy power lyrics. 
 
-And the most important thing about this campaign is that Danny was the first black trans woman in brazil to be the face of a bank.
+We made a music video for the song exclusively for social media, showcasing what the digital world of the Will Bank would look like. The song and the video received such a positive response from people, that the song was eventually added to Spotify and Danny Bond became the face of the brand. 
+
+As mentioned earlier, Danny Bond was the first black trans woman in Brazil to represent a bank.
+
+
 
 <iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0"  frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
