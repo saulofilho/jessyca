@@ -16,6 +16,8 @@ Will Bank is a Brazilian fintech and the first bank in Brazil to use a trans Wom
 
 ![](https://ucarecdn.com/577e0d08-8c60-4fac-8d20-ce0c00d8a87d/)
 
+![](/assets/note.jpg)
+
 </div>
 
 </div>
@@ -25,8 +27,6 @@ We came up with the idea to make a song with Danny Bond, a popular singer and ra
 We made a music video for the song exclusively for social media, showcasing what the digital world of the Will Bank would look like. The song and the video received such a positive response from people, that the song was eventually added to Spotify and Danny Bond became the face of the brand. 
 
 As mentioned earlier, Danny Bond was the first black trans woman in Brazil to represent a bank.
-
-
 
 <iframe src="https://player.vimeo.com/video/738278696?h=7f8b7c1ffa&title=0&byline=0&portrait=0"  frameborder="0" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
