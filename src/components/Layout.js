@@ -6,6 +6,10 @@ import HeaderMenu from "./HeaderMenu"
 import ChatBot from "./ChatBot"
 import Footer from './Footer'
 import 'prismjs/themes/prism-okaidia.css'
+import linkedinImg from '/static/images/linkedin.png';
+import sorryImg from '/static/images/sorry.png';
+import underImg from '/static/images/under.png';
+import workerImg from '/static/images/worker.png';
 
 export default ({ children, meta, title, location }) => {
   return (
@@ -48,12 +52,21 @@ export default ({ children, meta, title, location }) => {
               {...data.settingsYaml}
             />
             <div className="site-wrapper">
-              <HeaderMenu />
+              <div className="under-construction">
+              <img src={workerImg} className="worker-img" alt="Worker" />
+              <img src={underImg} className="under-img" alt="Under Construction" />
+              <img src={sorryImg} className="sorry0img" alt="Sorry" />
+              <a href="https://www.linkedin.com/in/jessycasilva/" target="_blank" rel="noopener noreferrer">
+                <img src={linkedinImg} className="linkedin-img" alt="LinkedIn" />
+              </a>
+              </div>
+              {/* <HeaderMenu />
               <Fragment>
+                <p>teste</p>
                 {children}
               </Fragment>
               <ChatBot />
-              <Footer />
+              <Footer /> */}
             </div>
           </Fragment>
         )

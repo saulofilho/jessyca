@@ -19,7 +19,7 @@ body.dark {
   --featured-bg: #66578d;
   --featured-text: #fff;
   --secondary-color: #b388eb;
-  --background: #000;
+  --background: white;
   --text-color: #fdc5f5;
   --text-secondary-color: rgba(255,255,255,0.66);
   --site-header: var(--background);
@@ -659,4 +659,34 @@ body.light {
     box-shadow: 0 0 0 2px;
     top: 8px;
     left: 2px
+}
+.under-construction {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  width: 100%;
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+.under-construction img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px; /* Espaçamento entre as imagens */
+}
+.under-construction .worker-img {
+  max-width: 150px;
+}
+.under-construction .under-img {
+  max-width: 100%;
+}
+@media (min-width: 768px) {
+  .under-construction img {
+    max-width: 50%; /* Ajuste o tamanho das imagens em telas maiores */
+  }
+}
+.under-construction a img {
+  max-width: 400px;
 }
