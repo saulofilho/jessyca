@@ -16,8 +16,6 @@ Will Bank is a Brazilian fintech and the first bank in Brazil to use a trans Wom
 
 ![](https://ucarecdn.com/577e0d08-8c60-4fac-8d20-ce0c00d8a87d/)
 
-![](/assets/note.jpg)
-
 </div>
 
 </div>
