@@ -2,7 +2,7 @@
 title: Bonafont - New Bottle
 date: 2023-01-12T17:58:29.527Z
 ---
-  <div class="text-idea">
+
 
 To launch the new Bonafont bottle, without labels and 100% recycled, we created a musical film that shows what life is like for those who care about the future of the world and want to live in a lighter way.  
 
@@ -12,8 +12,6 @@ To launch the new Bonafont bottle, without labels and 100% recycled, we created 
 
 In addition, we took advantage of the biggest creativity festival in Brazil and created a new award, the "Leve Estrela".   A 100% recycled award, made with the bottles used during the festival. \
 To compete, you just needed to use our Instagram filter in the most creative way possible. The best was chosen by a jury of professionals in the advertising market.
-
-
 
 ![](https://ucarecdn.com/95b44a04-5c53-4906-942b-2df93dd697bb/)
 
