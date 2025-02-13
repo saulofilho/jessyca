@@ -2,7 +2,7 @@
 title: "#FOMEDEMC"
 date: 2023-01-09T21:58:52.539Z
 ---
-  <div class="text-idea">
+
 This client everyone knows, doesn't need extra explanation.
 
 I had the opportunity to help this campaign with the creation of their new concept and tagline. #FomedeMc means: hungry of Mc Donalds. The inspiration for this concept was my family. Between us, were super common to say that we weren't hungry for any burger, but hungry for Mc Donald's burgers.
