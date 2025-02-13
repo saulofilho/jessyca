@@ -62,7 +62,6 @@ export default ({ children, meta, title, location }) => {
               </div> */}
               <HeaderMenu />
               <Fragment>
-                <p>teste</p>
                 {children}
               </Fragment>
               <ChatBot />
