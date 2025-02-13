@@ -2,19 +2,10 @@
 title: GAL
 date: 2020-03-01T00:00:00.000Z
 ---
-<div class="post-container">
-  <div class="text-idea">
+
 This project was a new and amazing experience that I have the pleasure to participate. MESA, put together a lot of professionals to help create a new brand: GAL, a beauty salons chain. 
 
 Gal was just an idea of passionate young investors that we helped become a structured brand, with visual identity, concept and storytelling. 
-
-  </div>
-<div class="img-idea">
-   
-
-![](https://ucarecdn.com/422bdafe-543e-48a5-8deb-4a88476c3423/)
-
-![](https://ucarecdn.com/8c4589b0-fa9b-469c-9cfd-c809ce1e766f/)
 
   </div>
 </div>
