@@ -2,7 +2,7 @@
 title: Motorola G STYLUS
 date: 2020-03-01T00:00:00.000Z
 ---
-<div class="post-container">
+
   <div class="text-idea">
 This isn’t just a regular product film, this a product film with real stories. For the launch of Motorola G-stylus, we selected three artists who use their work for a greater good, sending an important message: 
 
@@ -14,14 +14,6 @@ And Kauê Lentini, a chef who cares about the origin and the whole cycle of the 
 
 I am happy to be able to put such incredible artists in a global campaign, valuing their work and showing it to the whole world.
 
-  </div>
-  <div class="img-idea">
-
-![](https://ucarecdn.com/bbdb7703-af87-4ed3-8365-5a9c440da83b/)
-
-![](https://ucarecdn.com/43f73bca-bcbe-4026-9194-613769eca7d7/)
-
-  </div>
 </div>
 
 <iframe src="https://player.vimeo.com/video/504770458?h=5d7585046d&title=0&byline=0&portrait=0" width="640" height="362" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
