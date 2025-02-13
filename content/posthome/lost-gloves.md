@@ -2,7 +2,7 @@
 title: Lost Gloves
 date: 2023-01-09T22:04:16.770Z
 ---
-
+  <div class="text-idea">
 
 This is Lost Gloves. A project that gives a new opportunity to gloves that had been lost on the streets, so they can go back to warm those in need. Was a challenge and also fun to made it. Enjoy.
 
