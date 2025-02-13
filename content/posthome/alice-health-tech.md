@@ -2,7 +2,7 @@
 title: Alice - Health tech
 date: 2023-04-24T17:33:00.000Z
 ---
-  <div class="text-idea">
+  
 
 Alice is a health tech that works with disease prevention, taking care of the health of its clients . To show that the number of hospitals in their network had increased we decided to use those who are always taking care of their humans: dogs. In addition to the film, the campaign featured posts on social media, a filter for Instagram stories and a doghouse that still in Alice's main clinic.
 
