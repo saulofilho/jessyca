@@ -2,16 +2,6 @@
 title: Bonafont - New Bottle
 date: 2023-01-12T17:58:29.527Z
 ---
-<div class="post-container">
-
-  <div class="img-idea">
-
-![](https://ucarecdn.com/ef6f0e0c-e45d-44ce-a3b3-1b649dc3e555/)
-
-![](https://ucarecdn.com/e3a472d0-763c-429c-a4fc-a222e3cc098b/-/crop/1376x907/28,194/-/preview/)
-
-  </div>
-
   <div class="text-idea">
 
 To launch the new Bonafont bottle, without labels and 100% recycled, we created a musical film that shows what life is like for those who care about the future of the world and want to live in a lighter way.  
@@ -49,8 +39,6 @@ To compete, you just needed to use our Instagram filter in the most creative way
 ![](https://media4.giphy.com/media/FfOn6oepw06xBVUjHJ/giphy.gif?cid=790b7611421a61057875772c445432d647b5d89a542f1e82&rid=giphy.gif&ct=g)
 
 </div>
-
-
 
 <div class="img-row">
 
