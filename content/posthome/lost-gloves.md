@@ -2,21 +2,9 @@
 title: Lost Gloves
 date: 2023-01-09T22:04:16.770Z
 ---
-<div class="post-container">
 
-<div class="text-idea">
 
 This is Lost Gloves. A project that gives a new opportunity to gloves that had been lost on the streets, so they can go back to warm those in need. Was a challenge and also fun to made it. Enjoy.
-
-</div>
-
-<div class="img-idea">
-
-![](https://ucarecdn.com/b3bfa8ba-9dd1-41d3-b42b-27d68e2099b4/)
-
-![](https://ucarecdn.com/5b5bf15c-fb1c-4302-8934-3cf0d0574d83/)
-
-</div>
 
 </div>
 
