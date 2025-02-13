@@ -2,23 +2,9 @@
 title: Will Bank Feat. Danny Bond
 date: 2023-04-25T17:33:55.358Z
 ---
-<div class="post-container">
-
-<div class="text-idea">
+</div>
 
 Will Bank is a Brazilian fintech and the first bank in Brazil to use a trans Woman as the face of their brand. Yeah, we did it.
-
-</div>
-
-<div class="img-idea">
-
-![](https://ucarecdn.com/f61eb0f6-b6f1-4216-9abb-4c2771fa88d4/)
-
-![](https://ucarecdn.com/577e0d08-8c60-4fac-8d20-ce0c00d8a87d/)
-
-</div>
-
-</div>
 
 We came up with the idea to make a song with Danny Bond, a popular singer and rapper trans woman from the northeast region of Brazil. The song emphasized how the Will Bank Card provides her the freedom to have fun and pursue her desires, totally p*ssy power lyrics. 
 
