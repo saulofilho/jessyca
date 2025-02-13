@@ -2,15 +2,7 @@
 title: Bartizado
 date: 2020-01-01T00:00:00.000Z
 ---
-<div class="post-container">
 
-  <div class="img-idea">
-
-![](https://ucarecdn.com/c82fa704-13c6-425e-8751-4a9a80375dbb/)
-
-![](https://ucarecdn.com/2a01fdea-8c16-4ecc-911f-29ae32f807dc/)
-
-  </div>
   <div class="text-idea">
 
 Let me explain for “gringo” folks this idea:
