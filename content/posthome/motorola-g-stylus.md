@@ -3,7 +3,6 @@ title: Motorola G STYLUS
 date: 2020-03-01T00:00:00.000Z
 ---
 
-  <div class="text-idea">
 This isn’t just a regular product film, this a product film with real stories. For the launch of Motorola G-stylus, we selected three artists who use their work for a greater good, sending an important message: 
 
 Alma Negrot, a makeup artist and performer who breaks the barriers of makeup and conservatism. 
