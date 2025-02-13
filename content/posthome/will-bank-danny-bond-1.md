@@ -2,7 +2,7 @@
 title: Will Bank Feat. Danny Bond
 date: 2023-04-25T17:33:55.358Z
 ---
-  <div class="text-idea">
+
 
 Will Bank is a Brazilian fintech and the first bank in Brazil to use a trans Woman as the face of their brand. Yeah, we did it.
 
