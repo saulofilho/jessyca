@@ -2,7 +2,6 @@
 title: "#FOMEDEMC"
 date: 2023-01-09T21:58:52.539Z
 ---
-<div class="post-container">
   <div class="text-idea">
 This client everyone knows, doesn't need extra explanation.
 
